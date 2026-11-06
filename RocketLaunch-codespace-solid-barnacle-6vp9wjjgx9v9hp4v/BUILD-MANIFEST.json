@@ -1,0 +1,4160 @@
+{
+  "file_count": 831,
+  "files": [
+    {
+      "path": "README-DEPLOY.txt",
+      "size": 2099,
+      "sha256": "afac3914a52e1b34b3fa8bee190de783ad53c90fc696bdd9daf3af4181cb8d10"
+    },
+    {
+      "path": "readme",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "source-references/chunk-CF7Z4PJV-original-upload.js",
+      "size": 3601,
+      "sha256": "69bc152cc0abb473396e95dc6aff69148b34d54d0cdb5b5409f1e4eb25a64861"
+    },
+    {
+      "path": "source-references/turball.io-index.html",
+      "size": 6165,
+      "sha256": "33c2db98391eaa9c670a2222055653015925ed10e2121ca0c077910e2a44b4e8"
+    },
+    {
+      "path": "turball-render/package-lock.json",
+      "size": 30149,
+      "sha256": "8ac1441e709c06e4c20a7bfddcf7011989593fa4e6de01eaa90aa0709b8b6eed"
+    },
+    {
+      "path": "turball-render/package.json",
+      "size": 370,
+      "sha256": "80debbf3c727d2fa0b5293a5addc42f2d16969d68be08c45afe6633740ae5259"
+    },
+    {
+      "path": "turball-render/public/multiplayer.html",
+      "size": 3166,
+      "sha256": "f8328092be8c62426c771447ac1d4e076e77351864bf52a682370bb6916b934f"
+    },
+    {
+      "path": "turball-render/public/multiplayer.js",
+      "size": 2815,
+      "sha256": "8c9075d463bb06deff7e310b6c79a52a94a26887c95c19e300cca3ab7bf53504"
+    },
+    {
+      "path": "turball-render/public/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball-render/server.js",
+      "size": 28747,
+      "sha256": "d385a0637b97bd38c6a83ecb518487878ea6cd91f6c17b612fe3fc1745b3e93c"
+    },
+    {
+      "path": "turball_extracted/OFFLINE-README.txt",
+      "size": 394,
+      "sha256": "43eb2c1ae5789e8ab40f56dd363ed71812a8bab024587d63c704aa62f682c7e4"
+    },
+    {
+      "path": "turball_extracted/README.txt",
+      "size": 89,
+      "sha256": "424c57188b142c4fa33c69dc67723a4679092e438d52e95cf06c5d0801d7c029"
+    },
+    {
+      "path": "turball_extracted/android-chrome-192x192.png",
+      "size": 42616,
+      "sha256": "b0ab4c168babe5ef279f042f51677002175bde1f278478843011d0d43f3dded6"
+    },
+    {
+      "path": "turball_extracted/android-chrome-512x512.png",
+      "size": 177399,
+      "sha256": "06f25b2b654c99e71fb11eccf72fe6e96a5443735b09fd76be3d5fe60897dfbf"
+    },
+    {
+      "path": "turball_extracted/apple-touch-icon.png",
+      "size": 31647,
+      "sha256": "0ed2d755b038f29818453aa70fe1a86a25e77c4747dc461fe5f61fe958886f3d"
+    },
+    {
+      "path": "turball_extracted/apple-touch-icon.png?v=58788b5eef53",
+      "size": 31647,
+      "sha256": "0ed2d755b038f29818453aa70fe1a86a25e77c4747dc461fe5f61fe958886f3d"
+    },
+    {
+      "path": "turball_extracted/apple-touch-icon_mu8dmi.png",
+      "size": 31647,
+      "sha256": "0ed2d755b038f29818453aa70fe1a86a25e77c4747dc461fe5f61fe958886f3d"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-2LRX6IJQ.js",
+      "size": 3538,
+      "sha256": "62c90f784602850cfba4b04f55c0f274471053c4c091ad69b95aa751ecaa1cb4"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-2P37BOLJ.js",
+      "size": 30912,
+      "sha256": "b20b6d1d9e3c27e2c727979014cfebdcc414a1adfd9e74388abd887e75dbe83a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-2YGXAXYO.js",
+      "size": 951,
+      "sha256": "6b077c24e0c14e72c61f4c94581431da7136ae9b869b9da2e8a6f30bee343dcb"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-3PWXMIOD.js",
+      "size": 1250,
+      "sha256": "d189292a9a81b25e276ba80b873d40cd781d62fe864715eaf756c90073bb4cad"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-3YOANTMC.js",
+      "size": 162,
+      "sha256": "6fc128773a992d0e822f9479201c453be1007ac977d20fc273facc0266289c79"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-42N5Y4BA.js",
+      "size": 2980,
+      "sha256": "1857f8ad5849dcfdc03bec887c695133fb136cf706565df458e61a3f6acc5e8b"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-47AIOGMM.js",
+      "size": 3210,
+      "sha256": "db3a65fb7063a509783f9d88161e3fccd41d0aa54b1c736e23c305395b4b07f4"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-4GDBXW6Y.js",
+      "size": 231,
+      "sha256": "eeffbb215b3a08245c35359d4ac8f454b530eabc448a0a10960820247d294d83"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-4YGDVJ2C.js",
+      "size": 22672,
+      "sha256": "842cc0a9d39d7175589d3b329aa13b26753bf978bf350f63071add2ac3aff3e2"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-5662D5CU.js",
+      "size": 230,
+      "sha256": "605a3611032eaacbc11bd1de39c69df85f48e79d21d06df355a194ace52a5c2e"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-65DNBTRO.js",
+      "size": 863,
+      "sha256": "4ff3c9feb7f4a334b8df117597420c82644b2a694c9b2352d6ed57c98559c5e7"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-6FIJSSTK.js",
+      "size": 1337,
+      "sha256": "d6e7936eb8098a7bfd4cbbfd873b43aabdc69115083fb99261f8da2ed206eb75"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-6JV3JGYF.js",
+      "size": 1322,
+      "sha256": "3aaf8218e807d0257dbeeee96c49df987d7fe537d4422f6c0083f2388c54f721"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-6JVA4YXX.js",
+      "size": 3577,
+      "sha256": "cc2985d0ec7a16c46838460e49914363096a63641a3a9b281baec3af44630da0"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-6NTP3P2X.js",
+      "size": 869,
+      "sha256": "cc534ab41917a2c9847e4f051cc9607f1e28476a17dcb20859aa10d69caecb38"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-6S6IW53N.js",
+      "size": 1318,
+      "sha256": "0850b9e3d85c136e45b3867d915689f14df31b4c1dee841a175b0574e35fd3ce"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-7BFMNA5N.js",
+      "size": 627767,
+      "sha256": "8e50f8d881dfaf3225c35b25d2cfa72596ece2b5ef9235f341eaec93e7371b6a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-7NVIG53O.js",
+      "size": 1555,
+      "sha256": "a2ec9e9e17d7918357c2cb3519bd74509a0e96f99780b2d25b48f6cca60c8f27"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-7PK3YNQP.js",
+      "size": 2696,
+      "sha256": "2f8d6ae77de9338b83a698540c67957d1dd40f2b8b8f56f213f431e731ea1602"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-7ZCI6F3G.js",
+      "size": 2740,
+      "sha256": "74446ca5ceda27b47bfa760c72ef01ee581ac86f28d972cc4046a5bba6eb0d99"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-7ZDDYNIJ.js",
+      "size": 2206,
+      "sha256": "6bec1d3fa03ff65e89d2c7f88f6bb8f10b812420957e61b6f4625a6354f50746"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-A2YC7ZLD.js",
+      "size": 4654,
+      "sha256": "32d978d486632d9db6e4e127d0a09890d259afb28eb7a75be7f112cd17918ab7"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-AJOZ4OJG.js",
+      "size": 2755,
+      "sha256": "5d7b09058a4c68b9445db4d95a8cdd25bab747a7a8e325381f5c4398749dca54"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-AKLK5TAZ.js",
+      "size": 1719,
+      "sha256": "78a85da25248a7e9b30a4cb3506d12f1726c932b692cfc8c9270e8e99326d7c3"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-B26O4PQD.js",
+      "size": 18563,
+      "sha256": "f9d4ac034e5f029ae8473fb5fdfa3e05a97b5b0a9e436708e8c437f5eb2882b1"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-BD7RYI3V.js",
+      "size": 853,
+      "sha256": "0cccd9b77521303dcba684b1d51fa086af53e6192d13d8cd89c9f4e2d3cc03a7"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-BIDFAWXJ.js",
+      "size": 1605,
+      "sha256": "0d8dbefbe77ae5197ae9ec6253e170e8cd9537d49b4226448cbab334a97861f8"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-BLZFM6LA.js",
+      "size": 230,
+      "sha256": "1e0bbd895a07d510ef0b3634a6c85d43923a5e26b59d5a4f1191949cbf3d1e31"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-C3X56SUM.js",
+      "size": 1605,
+      "sha256": "7f030494083b89a3d397bf119ad4e3a2fa319aa038d70ced0c16c7d0fb0ea6b0"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-C4G7YP72.js",
+      "size": 98122,
+      "sha256": "c2efcfebee2f0db7d118810015f713af4c3451a25d7e332db84b584b11c997ef"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-C73IRMMP.js",
+      "size": 5551,
+      "sha256": "f89291996b96378c9b0f39441c40348e97e77abcbf293a3735318a8d5a96e20a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-CF7Z4PJV.js",
+      "size": 3602,
+      "sha256": "5633ae26da8a7d30f5e602ebb90ae3bfffb50723b2608b80f10459f660bd7839"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-CHUCDZTM.js",
+      "size": 93858,
+      "sha256": "80aaaaad0521eeb1b2ec908d8c9cb4e7fe084a877ea0559e9cd8b5f35285466d"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-CJBTD24Q.js",
+      "size": 97741,
+      "sha256": "de7a63ee808ca3d1b8e51977dc5904459d092c527175e45b24a46071c2a4f25d"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-CU6UTJVC.js",
+      "size": 10711,
+      "sha256": "f5f2738d13ca086107889c14bccdbc701250280cc8b57399e1ad50632f712c69"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-D4S3Z54L.js",
+      "size": 1266,
+      "sha256": "e9cf8f408c7f07ee79d10ea3e0c334989e2fa730bf8d25e19e0061c53d137025"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-DBHXXQXO.js",
+      "size": 6475,
+      "sha256": "12ea9f862f2b1f294c747f60ac7dbc312a1b3b2a35e21da8c297c2e216b6133c"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-DDOD44KC.js",
+      "size": 10655,
+      "sha256": "5d26bf0a76c6e2ab12a9af69437a188aadd762b2470f2e30cd815ac1ca41748a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-DM5TBCNF.js",
+      "size": 11225,
+      "sha256": "37c6dd9accb342c281be142d2f0a910a7c06d104b9862a7556353fdeed558b0f"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-EUMHQBDP.js",
+      "size": 18795,
+      "sha256": "7023792878e67d25a748d467f9fbec7b53e1a75fc448f5b774c72958fe664064"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-EVBU4EW6.js",
+      "size": 108,
+      "sha256": "e75012e9ce2e038d2e4ddbae2d52640d300a7740cca42d771f5247178aca1d04"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-F4AMHFR7.js",
+      "size": 879,
+      "sha256": "df08f6f4126b6849162fdc882e947631ff1863f6a9cf4cf9f7744aeaa3b66b87"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-F7Q5BTR6.js",
+      "size": 10711,
+      "sha256": "8d6a90485319a52a2d1b003abc10ffb52e6007a7c1cdb96c7d902a7f399b6ba5"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-FKXIVDZY.js",
+      "size": 12057,
+      "sha256": "77eb066c47e74376bdf0eb808ba58b522a53a6a9a7b5c7707d9212a8a361c7cd"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-FVNOXDGW.js",
+      "size": 18548,
+      "sha256": "52e26592118b43468745dd9421f78dedb6e271e6781db7e6babecbd882be11c8"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-FW2WUXKR.js",
+      "size": 3897,
+      "sha256": "87a2372aa6ce5880cbb319173fe2155ddfc211581c770ec619026569058ab3b5"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-GAV5HM3P.js",
+      "size": 352,
+      "sha256": "cf87083364950811cb376baba031efb4f934a446f2afb1e00f0b8b2a88480d28"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-GCE4PVXS.js",
+      "size": 50347,
+      "sha256": "384197e9ef3139ae8b409b56a0844da81fecce174b04d2772fde818f011cdc14"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-GCXW5IRK.js",
+      "size": 21850,
+      "sha256": "319cf617a4d66baf35b169dab89e0e0998377b8fa1863e47b8707cf64e6955e7"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-GI4Z2ZS5.js",
+      "size": 2896,
+      "sha256": "012e47332c642793bed02bdf2e8ac2b10b9932cf05df34c388ce18b66772c05c"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-GQCPF2OM.js",
+      "size": 2623,
+      "sha256": "37b0b6142dca8f0e3484ac87d99419f633fe27ef530cf66c1834dce0b94df388"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-H2JMTI3T.js",
+      "size": 135,
+      "sha256": "2dd315e880174f8c8b69724ce60ccccc20989ae993a42fdde1840d7c534afc47"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-H7KU75VK.js",
+      "size": 117,
+      "sha256": "787496fac9a81f8027963ef67ce2644420c94838c45dbab7f81237e20d6a093a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-HANJ3YE3.js",
+      "size": 12057,
+      "sha256": "3614f4bae02f8c792dcd629aeffdb175fec1f032ae6480a71f2e6aed5373f1d3"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-HDMCSLST.js",
+      "size": 21850,
+      "sha256": "711ef4139447f459b4e4fc663d4654d816dcebe281b36d8d02501e117af68e7a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-HH3TQXTT.js",
+      "size": 7310,
+      "sha256": "9f9fd63ae1ba07bb1fd4e78b7ab4d7fdc6a959d85ac3539ae0df330130bf3d9d"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-HYESY4DZ.js",
+      "size": 5978,
+      "sha256": "c2a2b773ab280f3b83dd36edf428ab92f4ce6cdd5b989b725eb592dd4b0c1f21"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-IBJSJZD2.js",
+      "size": 464,
+      "sha256": "7f9a4c361ef0bcb4b0adfb6e6e2d44eabd6f15d0e6f7da190fb25a932989e37c"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-INOZGPMU.js",
+      "size": 2180,
+      "sha256": "c249669b41d48ca8a9f1ebf88136aebf48a4bb48f6abdb70913ee111e2e49058"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-J2N3GR26.js",
+      "size": 2206,
+      "sha256": "4f76e92c624c198d7d83d45de2675e2744b67b5afb9e92e5549c62a03fbdd137"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-J6ZSPHTC.js",
+      "size": 4605,
+      "sha256": "0c1df0c293543ffebaaf7bf525fd8c29a0ee736933d211e153fe0dc8110cb0e0"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-JFDC77PT.js",
+      "size": 380814,
+      "sha256": "74c718c6df8688b6bc24440893c7fe0f1bfd6c68b3c6545fa30114e3f724d3ed"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-JP62PSKK.js",
+      "size": 192,
+      "sha256": "b228c40488afac7a893f5dfe4c61d7f5125ec4a7adfc116ae59a788ce8afbfaa"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-JXSWFITJ.js",
+      "size": 2896,
+      "sha256": "012e47332c642793bed02bdf2e8ac2b10b9932cf05df34c388ce18b66772c05c"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-K5QKKCCT.js",
+      "size": 24034,
+      "sha256": "d6e8e94c182f31564750e2f9b897e4629fd4fa06701c4a40e5da91c3f5107fb3"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-KBJTAQFV.js",
+      "size": 1266,
+      "sha256": "bcc9008808195cf6ae9b451a3707c16ba5c3214d69b7f65b1ea92b9c5a875a0e"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-KDKYPHHH.js",
+      "size": 599,
+      "sha256": "748fa73988fbdb41d05733df573f71ff10397ba3f97b88614b17a42bf4acb5ab"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-KFFSY6R7.js",
+      "size": 11187,
+      "sha256": "3c517691e886ffe316f7e812eb7703ce8f63c84a8f21e15c875f1047ea6979ee"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-LIYSMRB4.js",
+      "size": 1555,
+      "sha256": "4f4de76efa67acd98de883e736db0e070526877cc49ed30850996fcfa46346b6"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-MGG2MPYN.js",
+      "size": 785,
+      "sha256": "e2bc1aae88238f42cc4450cf46cde5becb2389383369a2105456f1efa86355ec"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-MLM52W2E.js",
+      "size": 2481,
+      "sha256": "c1d7937d7d1acec18c333a9f615275832ef7208866b322528a45be5aa359ae87"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-MOIN3T3R.js",
+      "size": 179,
+      "sha256": "50f3a56083d7b8c25740d338093b191f8c339b891e634614300c5cd0780e64f8"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-NA6UEYA4.js",
+      "size": 18236,
+      "sha256": "f0b76c31bc7e25d9e9cfd50c250eb417c81aea004a9e3df7db8a2a7cd9e1fe51"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-NVXYEIK3.js",
+      "size": 609,
+      "sha256": "881380d0c8f06da0e642b951c89ffb799dc1977f2627f4afe260b2c54aeb7d76"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-OCKWF4WB.js",
+      "size": 609,
+      "sha256": "443264a3b70e2ed21b5fa0603be3d99c98076f2ddabc87ccb45bd46749105a87"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-OQVFYWR7.js",
+      "size": 2736,
+      "sha256": "041f0c6f155abb99227d5999eb17f9e0f3f923588a26d6b6dd9cc19809b683f3"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-OV3W6VED.js",
+      "size": 142,
+      "sha256": "af589e25e870e4f1d5fd127c2ad28083862da1da3b76015f0223334616abdfed"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-PSU46GDZ.js",
+      "size": 3692,
+      "sha256": "a282b127b56aef9490be53a26d8183897a6472eafdf9820bd7a61b7dae9242a2"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-PTAUIPTF.js",
+      "size": 40435,
+      "sha256": "cd05093fca86f3b91a6e95ea03c4d5fdd23694f2b78a10dcf431effde58fc8bf"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-QBK5WCR4.js",
+      "size": 40507,
+      "sha256": "35eee34fcdeef7448c9c4f4cb535020c3952b2767aa11314c8bbfa049d6cd83c"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-QCVZD5DV.js",
+      "size": 29750,
+      "sha256": "c65ea8d143727d2608d5ffc99cccba6ec36315545e0555b0b77e8fe80347f9b8"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-QEBSJYVT.js",
+      "size": 58072,
+      "sha256": "f00427725aae6c9155083167ed27b2c425d4a22c7d7f48783fc3c5bf1b0a30ce"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-QJYMF3YC.js",
+      "size": 8157,
+      "sha256": "610e0b2669fa326c4bf48fc6679f9d5f03583413e584be16faafc6d0b7c5d40a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-QLJRFJWC.js",
+      "size": 1108136,
+      "sha256": "6774e10925502ab6610ac616962d8f7a45c873ee22edaffa422889ce50df1cef"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-QQUYVEJE.js",
+      "size": 4654,
+      "sha256": "f25c65d866958f51c54ec3adef90996c81e30c681fe71a2eb3c29464c01ce25c"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-RKY6KIPO.js",
+      "size": 58544,
+      "sha256": "fe03d725875f65db0de932495a0e7345d7651618fbce8f0b42e3bcb88be4fafd"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-RLRMVUKO.js",
+      "size": 231016,
+      "sha256": "4f8af2ff6eba559fc810b36382ec606af16606469febe5b06675521c69de1750"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-RR72QVRX.js",
+      "size": 84,
+      "sha256": "29a5c1ff381f8deb7ee749f630ef9d72ebbe3e912b32603cb4d84b713e053b48"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-RTZYCSHP.js",
+      "size": 30108,
+      "sha256": "e1b81a9b06e4357952773a3cfb9e0eefe9c7dc60f953ac0998300151dbcf5fbb"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-RWKN3TB2.js",
+      "size": 236370,
+      "sha256": "c495355f707a6a6cfdddd41fc1ff90e32aa41efc8a015d5eff1dc15a90ea2da5"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-SDN2QX6E.js",
+      "size": 231,
+      "sha256": "be17e49e8d5cebf96a175b0e25e3ba5c625608fd49c99273113fa73d8d399f8e"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-SPTBXEBI.js",
+      "size": 7310,
+      "sha256": "2ba3654265eaea6744ded6a7f285a5f113069f9403adb991f4c456853380a43b"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-SQWPQTRV.js",
+      "size": 400764,
+      "sha256": "23e159a0e6b3ca0440b4625b6d893daad3f1fae52700140be714633517e1a705"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-SUZQ7X65.js",
+      "size": 4415,
+      "sha256": "3954685e1adba28cfffe96f8243b7c4b58b68971ee908770de0851cad58dbee5"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-T7QY56N6.js",
+      "size": 5053,
+      "sha256": "1db22916ed0019dc6fe50b21ced91e468640f2ac2ed0ffe6e08d71da0e00aa4c"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-T7ZR3WGH.js",
+      "size": 1090,
+      "sha256": "6b2cd251c41cb346e27a156974c929cf0de6ba3c9d0003c708ef79378b5fdff6"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-TDHHHI6Z.js",
+      "size": 2367,
+      "sha256": "e5819cfdae25c19d1344d2c271d642d6421e9321d520b5bdf0b28e9689c8e910"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-THKRGFUV.js",
+      "size": 8105,
+      "sha256": "533be126026a39df8c70d699d27c791d31b41f2e8b17c99e5dd88a44bc203709"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-TR4VBWTW.js",
+      "size": 569,
+      "sha256": "6d3062f65d96f2157164d0cd646bd70f71b99f17be365fb3340ae8bcf101695f"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-TWEL2Y2C.js",
+      "size": 17887,
+      "sha256": "2cac966719ee564c11b625dc377dc30fb390aab3fbfa505e6ea7841f891bd41b"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-UKUTUYJB.js",
+      "size": 7157,
+      "sha256": "91ecbe6bc78c6b9ca315ad411e16d4f85b59a0f16789060f2719210b01977954"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-UZ6LOV5S.js",
+      "size": 30846,
+      "sha256": "9a247ba18da8ff425278d484b29c769d3f09df75e0f655feafa3d9bab44180af"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-V76NGRTL.js",
+      "size": 6317,
+      "sha256": "f6b58fafb3dbfb1b98ce384ad2adeee819ddc797303ba72fcf3c3dc0317cc30d"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-VEWTP2SH.js",
+      "size": 863,
+      "sha256": "bb30afc76703b3e8e76d2c6f4c71c6747a749183f75f227dfedaad537dc214f7"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-VX2MIW5C.js",
+      "size": 464,
+      "sha256": "7c8c9f413a6a23d37871f40cf0b2172e4aa559758b11f888f7346454c3495030"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-WFC233LQ.js",
+      "size": 2103,
+      "sha256": "3d1d8624721a7344994a6811504b35756864f7f1c529f48d1fac88d267454aea"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-WNN7TAOC.js",
+      "size": 9100,
+      "sha256": "a8a64bb598f7c41e5eee3620dc95a6bcccf2d7c4224c5077407f6c5089a5afc5"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-WQ4H7JZR.js",
+      "size": 2723,
+      "sha256": "3a4ceea7655da9d6403a23fba26794511ccf9484204c295568b58f2c84f2b48a"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-X7AW2QMV.js",
+      "size": 4939,
+      "sha256": "174c340861bbd1de7611d19b756d1d5a775583d651baae836cb4359c77727007"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-XKL2VGCL.js",
+      "size": 165903,
+      "sha256": "33df66bc2d9f47151751e6fa95c47b575d5677be4d5e735d36643c1e1848c2d5"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-XQW4BHZT.js",
+      "size": 38202,
+      "sha256": "099b3d29424b1266854d8cb221c1040fbc3538fd42f80db86c24eb714ebefde9"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-XSO5U5YN.js",
+      "size": 621,
+      "sha256": "4b631ceae6ee8fc61af40618ec1669545f7b98b10d615e010a15eb7f0ead56fc"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-XTR3ZGRW.js",
+      "size": 1983,
+      "sha256": "95dd429dd2cb8b3afcd01421b60cba01a2e4bf80ce5faac548d608aa0da513ba"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-XUZBIJQL.js",
+      "size": 36720,
+      "sha256": "d742590b111224640b0f0d704bc9882f7043ec962e2368c3bda75d346b047655"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-YDDIATD6.js",
+      "size": 1791,
+      "sha256": "3b57a85a2801006784f34fdc326962cc0890b49ee19fb02621bf04eb0ac4faa2"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-YST2QCUU.js",
+      "size": 1168,
+      "sha256": "a94fdb42220b7d5cff3247283a5eb2cd9e943b6a615d46e85b666456b7c00fbb"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-YYLVNF3E.js",
+      "size": 38202,
+      "sha256": "3ce9518b5970735e349f1276351be3fc92a82c1c9a687a0d346d0f8f26460379"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-ZFRU76SJ.js",
+      "size": 1105921,
+      "sha256": "5781510c85aff3f9d557fab7508734333472eb6a9afeb6a1e1a163c899e94c8f"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-ZGYNE5VR.js",
+      "size": 376,
+      "sha256": "4acf05372ea5f2fca92297df4467a395d1567275ab2e9e5f5c97ce8f1f9e53d8"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-ZMK3USMW.js",
+      "size": 2559,
+      "sha256": "336f3438aeb078ce984d2e6cce2d034b25be566dfc0930299f8d22ce01f4df08"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-ZN4Y3EZL.js",
+      "size": 8388,
+      "sha256": "4d62df98c626707b4e416af613b597db398b7eebbfec0df0cb100e849a63cbeb"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-ZOCVOYCI.js",
+      "size": 36720,
+      "sha256": "6f79c764ea83f91db432a5e758a9d46437110e07be905995811f6f85ea18094d"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-ZPKIOQB6.js",
+      "size": 11673,
+      "sha256": "57a6605bbb851f302b74d953f303291e3ecfcf2e14118ebadf70a6960453616d"
+    },
+    {
+      "path": "turball_extracted/assets/app/chunk-ZWNPLUTT.js",
+      "size": 3601,
+      "sha256": "69bc152cc0abb473396e95dc6aff69148b34d54d0cdb5b5409f1e4eb25a64861"
+    },
+    {
+      "path": "turball_extracted/assets/app/game-4PJQIVDB.js",
+      "size": 6220,
+      "sha256": "dca15878474f847c8bd4d586995ef7e51cc1a017eba4d5d5769d7a94560fa28d"
+    },
+    {
+      "path": "turball_extracted/assets/app/game-NXJCU5YD.js",
+      "size": 5203,
+      "sha256": "270ca9fd75de0bdeefba711b04365fa04f39ce0fec4c1997fe139a54e03cc260"
+    },
+    {
+      "path": "turball_extracted/assets/app/loading-7GMMIDVD.css",
+      "size": 5279,
+      "sha256": "a75610833692a3930a9ac5caf84b3e70f968d42ad8a041b0c38308528db2c4c6"
+    },
+    {
+      "path": "turball_extracted/assets/app/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/app/styles-4DJX4YHO.css",
+      "size": 479892,
+      "sha256": "a68a9f54fd341c69c61e1203d0922c0cf14a0cdbacffa0dbfa473f166b431bd6"
+    },
+    {
+      "path": "turball_extracted/assets/app/styles-FVDHSQBB.css",
+      "size": 491281,
+      "sha256": "16a5d708dc2df7108175321c386ee92e62e361954f382c5eaf5a00ef2ac3b4fa"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/cars/cybertruck.webp",
+      "size": 12450,
+      "sha256": "ad2f4ad6ce0352c691a0f4ca9581e2c27c7c67bf1bc47c4c996f72fda1fcd7d4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/cars/fennec-apex.webp",
+      "size": 29520,
+      "sha256": "e708c80e01e45815841c0e09b0ff6f9b9e30467a60f7f48b7eb1cb1f6959271f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/cars/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/arena-champions.avif",
+      "size": 16486,
+      "sha256": "8817d280563c352b1003b55a3cf5f01f645bf0c806193c0ad4569860dd25e111"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/mode-doubles-small.avif",
+      "size": 5810,
+      "sha256": "f2da937f103a923fa88271972d0541a302d44a65afcbc634f6caa870135d6557"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/mode-duel-small.avif",
+      "size": 5167,
+      "sha256": "80434970855a6786a9e4389e6dc9273c9a92170e525b63be4bf8bb2428bd47ff"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/mode-extra-modes-small.avif",
+      "size": 11266,
+      "sha256": "49dd4c55536882bd1c5fcf385ef692c8d3e370e9a9ffcae07218e4578a5d4628"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/mode-hoops-small.avif",
+      "size": 5107,
+      "sha256": "3deb4f11908e90b355772c554fc604ae0c62203fe2db7e9bbf26bcf41efefaba"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/mode-rumble-small.avif",
+      "size": 5766,
+      "sha256": "c09df1d3cc5bbb28fb15ce2c81e38ab561d0bdb8c78ad46021fa6f7ced27b72a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/mode-snow-small.avif",
+      "size": 5644,
+      "sha256": "4fdb56b93a6dbd289c16d6c95f76c32e3fac422c98f9db3fc527a53cecc6a0ce"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/mode-standard-small.avif",
+      "size": 6353,
+      "sha256": "882d5bc9b42966ec2ad918ba0613391c6e2ff08aece39b548138c0f402773573"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/tile-casual-small.avif",
+      "size": 4078,
+      "sha256": "8e8f38efab9b7d0bdd84353500248e931f399997fbc61971a7f064b1b20c1a01"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/tile-competitive-small.avif",
+      "size": 4827,
+      "sha256": "63e4b672957b0cca427ac2919df7c6c54cb8d30843b7c81b5ea9103624e321d5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/tile-private-small.avif",
+      "size": 3886,
+      "sha256": "8ef3a8ba5150d09df86bdcf6ca7b0aab40f0617b8090b98071597effceae513e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/tile-tournaments-small.avif",
+      "size": 4478,
+      "sha256": "304ce4980cd0615593491af89a3e1590f49f9ee0a68094683d6ccfb6f385f42c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/tile-training-small.avif",
+      "size": 3999,
+      "sha256": "816deaead272fa428f07ad8878755195f7c087e59da5d0fadaf7d2a19020f03c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/training-aerial-small.avif",
+      "size": 4672,
+      "sha256": "8bd4646c6669eec0a471f81f4b3864a4614af132531e7d1ff00ecce31bae5f42"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/training-custom-small.avif",
+      "size": 5623,
+      "sha256": "dbc4293773f3871839a992ae5075900c641d47088931cf1b8ead51549e3322c9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/training-freeplay-small.avif",
+      "size": 5410,
+      "sha256": "6845f940fc176a25e29c78c0ce9a6176181900710bcf98b5174050f2bb282d1d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/training-goalkeeper-small.avif",
+      "size": 5312,
+      "sha256": "3719122386fea9dcc993ab550d4f3714dd827eb4ed3665603bc953dcd7bffa86"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/training-striker-small.avif",
+      "size": 5232,
+      "sha256": "047e7746c27e90bcd35a6e19f2128a4a3d2c0758c0d05ee6ed8bf9ec616b5098"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/menu/training-tutorial-small.avif",
+      "size": 6178,
+      "sha256": "045a9814455d003d21e5fce72f7598d7d3ed73739d6f91ecaa135805b192cb51"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/news/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/news/season.webp",
+      "size": 78564,
+      "sha256": "5270c08da84af1e9c706e30119d17f23d9555e4fc2fa7475447dd1ef41d89dde"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/promotions/carmania-portrait.png",
+      "size": 2359347,
+      "sha256": "cdca37d9103e41e3980c475429ecc6d9c8ebf19740c27cabcf01463d29283eea"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/promotions/copchase-300x250.png",
+      "size": 434125,
+      "sha256": "fae599b8c9a0000c9f1666ac3f358759386fa9e09977f668c17d78a3f1892293"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/promotions/copchase-wide.png",
+      "size": 387741,
+      "sha256": "59577d43dec959035ec837072aab50fe372ae923fa5d22d2ba79bf8d2ca901f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/promotions/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/reference/news.webp",
+      "size": 188708,
+      "sha256": "0f15faec41be755396fe5ad13fb7ec2bf2b284f10a6b231327120de5e17e781b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/assets/reference/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/credits.svg",
+      "size": 2414,
+      "sha256": "2757d31413a09d5783a0362a7ad4248b1dc936d1bb0f746b583360fe7a9bb357"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/match-badges.webp",
+      "size": 57542,
+      "sha256": "bf349b4f4622954b498eeec3907467b49d9deff9bedff4ee320dd9221ebe7533"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/pedals.png",
+      "size": 11652,
+      "sha256": "3468a55f89a98f24102a225a2e2dfdffa960ca164b50fc81dd238613a5fd5fca"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/rotate-landscape.png",
+      "size": 2626,
+      "sha256": "a013344f9e03c807c456a915ac44c914e0df83992ee7ee0c67b21a661b24a31d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/UI/spinner.webp",
+      "size": 1198,
+      "sha256": "8f89511d5ecac9a70862f70a05fbbbcec4b88a6355faa80364eb6db586872a45"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/branding/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/branding/turball-wordmark.png",
+      "size": 44100,
+      "sha256": "aaef6ba407f3afc20b55556cc76c5eb59e83d6168132f29c39aec2d854fbb280"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/canyon.json",
+      "size": 175,
+      "sha256": "fd4e38562f8273a43c2f9cdb34d4590815767925cc59da80d4d6a8ea3c26a483"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/champions.json",
+      "size": 289,
+      "sha256": "ee07a07237b230ff6760fc81bfc76245d6643b787de6b1efbbc8e18c9832c337"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/coastal.json",
+      "size": 174,
+      "sha256": "f4294308ffa18c885887659272a680fbf90f41f2e899999018f78301def6a634"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/crystal.json",
+      "size": 176,
+      "sha256": "b4794c24ae1f3d29a22fe21f000657f5c45c9484b8eb7f7db67b93642074fc80"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/dunes.json",
+      "size": 170,
+      "sha256": "cac0c997b5c02c5fbe066956f6c6e8bc6abd9c33711efa4ced38ca1acb3c7419"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/forest.json",
+      "size": 172,
+      "sha256": "2ad96304be1bfa9fdc7c8544048b98e46b2697156ad605fc752298e9c7fa1552"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/foundry.json",
+      "size": 180,
+      "sha256": "9fa078d283c70f17d86f7737963aadec5357eacf58575dce3ae7f9675c5e27b6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/glacier.json",
+      "size": 173,
+      "sha256": "2c6be852eedcca1b62438c563b37a3bf94b89566015146e5056006c346ef447d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/harbor.json",
+      "size": 173,
+      "sha256": "d3cc0e1197da0c02ce9d925085d969564e54ac134c478eaf632950d5cac1d179"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/lunar.json",
+      "size": 169,
+      "sha256": "210fb6d64a8afe077022c365ae2b5e3317e0cd4947b87dea165389104cb6551f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/canyon-v2.glb",
+      "size": 965020,
+      "sha256": "c9318ef4c7d159ef57b8332e347858fb8a9d296d5f7b5656a70ccd5a79d054a5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/champions-v2.glb",
+      "size": 1461640,
+      "sha256": "4d084224a59f15e3949aae162ce34a8c036d9e7dd3a8f2b9ed732d7e5f09b4f0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/coastal-v2.glb",
+      "size": 802272,
+      "sha256": "b1902e1ad7ddc22fb2cb3f1902476baebb8b2f808ce448fd8e0008e424e67d8e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/crystal-v2.glb",
+      "size": 992680,
+      "sha256": "f7ae661dfeaa06cfed4cbab275bac77e5b331aa4b3238be99248e3e3fbee970a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/dunes-v2.glb",
+      "size": 1066492,
+      "sha256": "0a82c0ea09542da07cd00786a3a931b69c47670a38ec0f5939dbd940bbae64ca"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/forest-v2.glb",
+      "size": 1267620,
+      "sha256": "10934070838869dd5a1b9b6c733488db36940e3e29cec9e3dd8a21b9a44dd9eb"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/foundry-v2.glb",
+      "size": 1236036,
+      "sha256": "ea2b7a63c2b91caf48f5b20496c517055b28da1f8660e3393ada03522f31237c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/glacier-v2.glb",
+      "size": 1075676,
+      "sha256": "7f01c2b9b19ed3b3e248c8261e083e2e7e8b5fbe6d4cfb242206e045bdd79fad"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/harbor-v2.glb",
+      "size": 757992,
+      "sha256": "cd64aa3631d5bb8565c8cfabd8e2a8acf9354aa3f4116739d76eea217cf96476"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/lunar-v2.glb",
+      "size": 1351964,
+      "sha256": "3f98fcaab54de90619a5923fedb64bd6ce655d4d3d9c535471980bfe55bc4752"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/neon-v2.glb",
+      "size": 1449200,
+      "sha256": "3c94a508f56b005851898f29b090f91c4daf0402dd41e6aed06f6c0ad61a9400"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/oasis-v2.glb",
+      "size": 1211028,
+      "sha256": "882b0809067e2ae8998f99e7546adae0135a684007826fb3b4bc8c46be8327da"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/orbital-v2.glb",
+      "size": 1225648,
+      "sha256": "c3c1c8daa3ab1545b78212ad99d3a53e72dcada9d3fa13691d49fdd4c074f691"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/sakura-v2.glb",
+      "size": 1899636,
+      "sha256": "d9906a871fa75cfe2c2c02155fddcd167c2dafbbf65ce52ea8c3ae2284449c24"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/tempest-v2.glb",
+      "size": 965804,
+      "sha256": "03032b2288ba660837ed77c231ea94e1935c4ef30bde9b2e03191547daa9ab16"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/maps/vineyard-v2.glb",
+      "size": 1390756,
+      "sha256": "3dd51e53d1ee6caa8aa0c30ea43df8292cb22f7676775f55b66147e8326a073d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/neon.json",
+      "size": 165,
+      "sha256": "2811419686bc9573f3455c0fb5946d174062622748419cb1834f1a5b73ebca21"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/oasis.json",
+      "size": 171,
+      "sha256": "9cc6c270022971dd02690bee4f6616d85658f86cd84bdab763c94bf4baaad9ff"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/orbital.json",
+      "size": 178,
+      "sha256": "a4980eb0d5a19bbe4b68342fae4f10c17757d0658397b622d20cd45f2cd50234"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/sakura.json",
+      "size": 174,
+      "sha256": "71f5b161f82ba69f59bb30fa9b7383c92d8969b6a55c69e3842ed6852d96c30c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/alpine-dawn-cube-v1/nx.webp",
+      "size": 21352,
+      "sha256": "1c94bf1435f7d3fbb940039f6248114fb66d6496c239f2e944b1598a92c1d6d6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/alpine-dawn-cube-v1/ny.webp",
+      "size": 6296,
+      "sha256": "a1d1c4a7bfe8aaa10c7dda275d8d6c0933ba258c1f0ccdd9e7f4d58a5beef5d4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/alpine-dawn-cube-v1/nz.webp",
+      "size": 27958,
+      "sha256": "6eaa23537235c365f9ad331341199316d61a5cb693d1545f3fb0a548a45cdc4d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/alpine-dawn-cube-v1/px.webp",
+      "size": 22316,
+      "sha256": "32a06434df2ea43ea7bc6439c8a5d3307a01f9f17ce2e2107ba204ccfcce1fa4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/alpine-dawn-cube-v1/py.webp",
+      "size": 31918,
+      "sha256": "5b57a541fd0704116f7bb259fdaebe23d3d4825df425c43f52242128bdda82c8"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/alpine-dawn-cube-v1/pz.webp",
+      "size": 21426,
+      "sha256": "c4d3abe4ba9be38d8084821508ba5c0b55b928202f7ed1679bb10cd8f12b5be4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/alpine-dawn-cube-v1/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/champions-day-cube-v1/nx.webp",
+      "size": 22370,
+      "sha256": "a6bffffae859f235e0fe2d0a3c7fb6c62861dd5f4e5069a948446e6b7d191e94"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/champions-day-cube-v1/ny.webp",
+      "size": 6472,
+      "sha256": "e1f04778a7b0aae6496a7ecef01f05fb146292d94c1342c9aa5423fcbc9e2b4b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/champions-day-cube-v1/nz.webp",
+      "size": 27728,
+      "sha256": "d89741487fe167f10326522ef1a3dbaa80434d2698a1686f2f53b31c81b8e1b5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/champions-day-cube-v1/px.webp",
+      "size": 24014,
+      "sha256": "730e179a3acf1e029d9f0a5a80e1ecc2680136f8158d049c59c637c267443ae6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/champions-day-cube-v1/py.webp",
+      "size": 33918,
+      "sha256": "277003ce704eb6b93939a3cfbe90154be2c3822b0d0e40396eb8828e859098f4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/champions-day-cube-v1/pz.webp",
+      "size": 23088,
+      "sha256": "2341111cdeb3c15207b8831a480b33aa3988152922af025d81a8819d7ed429c4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/champions-day-cube-v1/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/harbor-sunset-cube-v1/nx.webp",
+      "size": 20094,
+      "sha256": "5b06a18e2c2f3943061f9f06685137be3eaa83c264b42f5cd61a9b9ecca6ed7a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/harbor-sunset-cube-v1/ny.webp",
+      "size": 4430,
+      "sha256": "964e2950087aff68d5e62122d905d875a2546674ae2c6dfdc56816e94ea4d6fc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/harbor-sunset-cube-v1/nz.webp",
+      "size": 24122,
+      "sha256": "241c77fff2e792bf6071bbb7462acfaf623ad5c29b00c84b23600c2b93069f40"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/harbor-sunset-cube-v1/px.webp",
+      "size": 20162,
+      "sha256": "c65c1a342ec838269a0c14a82d7af73be67fab277871f084c3b323b81d0b1ba4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/harbor-sunset-cube-v1/py.webp",
+      "size": 31590,
+      "sha256": "e79685826b6010800726a53a128f2c89a20ab41298872187247699d224cce12f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/harbor-sunset-cube-v1/pz.webp",
+      "size": 19774,
+      "sha256": "bb6061f05852a4bd34693f354ae20e7b83fb0e42de001e8c39eefe9a6c35705d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/harbor-sunset-cube-v1/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/midnight-stars-cube-v1/nx.webp",
+      "size": 19472,
+      "sha256": "aa102fb6c72b66e2819cc6b958caa39f3730adae4f23fe59cca55d6ac1a2aaa4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/midnight-stars-cube-v1/ny.webp",
+      "size": 3574,
+      "sha256": "a3585df797b6ed384093469ca3e22db35d2c22671e6122d1bf6d9ddb4d620c5e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/midnight-stars-cube-v1/nz.webp",
+      "size": 20756,
+      "sha256": "86787de8b263e95f568acbd1022343a6c890246565129c611c50c7c48ba5d705"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/midnight-stars-cube-v1/px.webp",
+      "size": 22452,
+      "sha256": "3896dfa4caedfc3d23fd0153b419c5a203de9e7d30416f847eae6b6bb5796605"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/midnight-stars-cube-v1/py.webp",
+      "size": 44176,
+      "sha256": "c77fefde3c268ebee5d83c1ef91154d17ea1a9f05bf5614c795c86f4edd60884"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/midnight-stars-cube-v1/pz.webp",
+      "size": 25576,
+      "sha256": "ddf1f3fffb08ceb57fab686de673eb591e2df781fe2ab71575f20347a7a6990f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/storm-front-cube-v1/nx.webp",
+      "size": 18052,
+      "sha256": "3ae0cd6c2ef02210eda1b71eed2cae5103077426d84ab4cc104620a6e8f1b4fa"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/storm-front-cube-v1/ny.webp",
+      "size": 4872,
+      "sha256": "87d44d4b6ff907b6b4157e13405b95b4d3cdeea8af58391a3ca0fc14b49c3c33"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/storm-front-cube-v1/nz.webp",
+      "size": 21888,
+      "sha256": "67d2f0103229ae87ce20e57c944437c29f323b9d9937093941b8aeaa20817b29"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/storm-front-cube-v1/px.webp",
+      "size": 17446,
+      "sha256": "4af6b1a9762e9a915ca864bf71e8971aa5148e8103a3ff367ca2c31511fec2bf"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/storm-front-cube-v1/py.webp",
+      "size": 27340,
+      "sha256": "e2b580031025fd2b476953c0055b83baf3c8f80b2d5ad376a962b4478126280a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/storm-front-cube-v1/pz.webp",
+      "size": 17420,
+      "sha256": "54a7e9019141c1d438ba57894121630a62e3e71829dede053111544ee05e2799"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/storm-front-cube-v1/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/violet-twilight-cube-v1/nx.webp",
+      "size": 15802,
+      "sha256": "861b9bfc9cc987a4c41bc1887b0167b5a366195f4ec52cd438226447949906d9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/violet-twilight-cube-v1/ny.webp",
+      "size": 3862,
+      "sha256": "6f8ba6f43d57cc0da6ada6ced14a6dab8074a90c2799b2a7c708ea3274ad26d6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/violet-twilight-cube-v1/nz.webp",
+      "size": 21058,
+      "sha256": "4e53099141b7ecb3013847d63e422c9b5d64f730b61ee3ace79054bcc0089456"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/violet-twilight-cube-v1/px.webp",
+      "size": 18514,
+      "sha256": "1a9afa3a6e6d7720723ee97f255d68c7aba53c367965b4b40981bd269bc1b3b0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/violet-twilight-cube-v1/py.webp",
+      "size": 19684,
+      "sha256": "7abda720f1b524b2c99a9d9f9e96e0915e7e0f058e6c3fdaabef11e1e49c4459"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/skies/violet-twilight-cube-v1/pz.webp",
+      "size": 18436,
+      "sha256": "c2e8581e8051a9ad67b8534d6626ba4ac5284b57f7fcfc1c89703332821d2bec"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/tempest.json",
+      "size": 181,
+      "sha256": "e4f24f341fd5d4d883dd1650a211d88754c71372d560bc6ce6e678701dc4f713"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/arenas/vineyard.json",
+      "size": 181,
+      "sha256": "db6aae2516756710c8ed81c60e8a49bb111a7a865c8e8ebdd87d8494fd4b3b18"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/assets/decals/fennec-apex.png",
+      "size": 51874,
+      "sha256": "1a14eac9e5c862cb7d5281cfe8340cae84c10132a7c733763f93616408da72f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/assets/decals/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/audio/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/background-clock.js",
+      "size": 257,
+      "sha256": "525ad9c701c46da67b1c4ec62a75248dc5ac6cee1227c2ba6f1cdd5bc99df1be"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball/ball.gltf",
+      "size": 1968,
+      "sha256": "cbd0eb7848fe9b71609e1507b2114b02c97d8101e6ca603d899d48bbc19f648e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-preview/balanced.glb",
+      "size": 74160,
+      "sha256": "0452255fccb5e55cd9cdfe27ae4685e3d4d3f19c94861e48589c8be86b23293a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-preview/detail.glb",
+      "size": 108236,
+      "sha256": "14ee49ade097a5d09072b4471d118ea3369e8835a32c1e32069459d938c0bb46"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-preview/lean.glb",
+      "size": 43308,
+      "sha256": "5b82fb96e61d30ff323e4c6c1b9ac4f63e27135d069779102ce26a741278f44c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-preview/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-preview/swept.glb",
+      "size": 74148,
+      "sha256": "8755e2a183ed0de1e42f602186ed526021adc0f26ca28e2841cd8726e501b7f6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-textures/alloy.webp",
+      "size": 24110,
+      "sha256": "09817251a79b282b24666791fa9204520e20f5f5981f339cd2b340b6af04a1f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-textures/arctic.webp",
+      "size": 25080,
+      "sha256": "2ee1e7fba35f3cd0538a595fd44628a329d3d0e1f6f1b4ee79f6849bbe6ed650"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-textures/ceramic.webp",
+      "size": 22002,
+      "sha256": "e04578a15b5668468a24e5de29a37eaa8888c2bc8b1066cb9d7e42c05ed6203c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ball-textures/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/NOTICE.txt",
+      "size": 415,
+      "sha256": "e9efe794d44681ce4668a0a8bf2e5c82001425c3c7564d09c060ec251b3502cd"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/necto/NOTICE.txt",
+      "size": 481,
+      "sha256": "24a3efa0e3d56a6189f00fdb632817f9f6444273027a46157cf791e3d7099390"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/necto/policy.onnx",
+      "size": 707364,
+      "sha256": "4c0a29c6d107e5b86d85b8e424f17095f498a634d9295c6d50820c39a7fc0db0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/necto/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/policy.onnx",
+      "size": 1802204,
+      "sha256": "79b42abca2ad19f80962c1a870d4308319137f695893a6fb105e508bbc203620"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/seer/NOTICE.txt",
+      "size": 887,
+      "sha256": "4cc10f3eb03557264e81220e5dd6f841a859e2598e3279d2c5962d3a0c47d0f8"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/seer/policy.onnx",
+      "size": 7413893,
+      "sha256": "df9c1ae3ee32eaa365b964cc859ee00b2672dd66b83c0957c294ec1a20ac4b13"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/bot/seer/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/aston-martin.glb",
+      "size": 269124,
+      "sha256": "d252d6bc6de257443e7b1e0b5dab47269e54daa1a742d0ce93135db332e247b1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/breakout.glb",
+      "size": 293860,
+      "sha256": "4d793608958fed83a9c8ed0a403114c1c76b3bd68412bb0a015079ddd00d8fd7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/corsair.glb",
+      "size": 321892,
+      "sha256": "ff9e3aca66f714807683d98302e7605a71a865a06b8cce60fdd77839c0ffb7fa"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/cybertruck.glb",
+      "size": 138344,
+      "sha256": "f84d11c176992628ca06bc20aa5486e2d5818647287cd929e64f3e3119d29d5f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/dominus.glb",
+      "size": 224696,
+      "sha256": "6ba52cd72a3a2678ecfbc95225a39559ccf6a4b6e6b8184fc24f210858087e19"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/fennec-body.glb",
+      "size": 602644,
+      "sha256": "83da816ee1657f5ee80ffce91c3fa1fbd970e48657b5f2eebf83f4adf253ca06"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/fennec-body.glb.gz",
+      "size": 257756,
+      "sha256": "387bd29242c30bc2d75f301ea81637706d836b992ba658ea77b055d9964191fd"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/lamborghini.glb",
+      "size": 209752,
+      "sha256": "3e850463b84775927e5366e33ec37e5c3a68b4d6bc476b7504aedeb0b1fcdb70"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/mammoth.glb",
+      "size": 286044,
+      "sha256": "fba1a640a11b1296e4d69e75272762be76cb25ef955113d47943c96fcba6a96f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/merc.glb",
+      "size": 255668,
+      "sha256": "24b41febecd5537fcb72befda2690fa0ad31a15f10996d242c5cea2ba45c6819"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/miata.glb",
+      "size": 211956,
+      "sha256": "9b24884d53c115a643dd2d51bebf20e2d7333cb2561edbcfc01ee7b3ea750551"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/octane.glb",
+      "size": 321000,
+      "sha256": "8f5816dad4270a23a5b44d11a3325f4ccb50fabd49ceda6a9370cf8089c65427"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/tempest.glb",
+      "size": 365688,
+      "sha256": "f9d3795b1d0abf65dadfab7991a9a6a5aa11699b76fc478c1345daf2843ca1d1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/cars/viper.glb",
+      "size": 294792,
+      "sha256": "7a7063b0b8ecc2a319305b58d91265c394dd5a08006669ea9204f60806cd6ced"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact/arena-boundary-v2.bin",
+      "size": 1599364,
+      "sha256": "607b5d895f9f8f0ef61df299c2247e71d10b617b3265d59e0ac226357eeb72c9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact/ball-albedo.webp",
+      "size": 13168,
+      "sha256": "b01a50e4bcd3d653db72ab2ce0c69a8b2b084a367700a8e7571f49773fc6f5ec"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact/ball-material-mask.webp",
+      "size": 10424,
+      "sha256": "33d8308d5f98b0b8d93a3a0fbd39526b6e47e5d6df2c31ecf2f21307f35e7078"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact/ball-normal.webp",
+      "size": 6258,
+      "sha256": "68194ed76f4c177816faffdb19ea1911e5e389e563e222f72246b22951730df0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/arena/boost-pickup.mp3",
+      "size": 4224,
+      "sha256": "30268ec4fdc0e3ace72bd997a675df1679b0d88298be29fb0953a298ce5a3b47"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/arena/crowd.mp3",
+      "size": 92830,
+      "sha256": "7b88c5aacbe7099cc50f69bc670a3f8ac184205ae6770a2781472ddd63818a99"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/arena/goal-scored.mp3",
+      "size": 25199,
+      "sha256": "72b8246cb3f30382ffa183679908e021704def9ba5385671735bff0a1a1b6cdc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/arena/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/events/chat.mp3",
+      "size": 1511,
+      "sha256": "c60ef4d6f667907fbdf9b81394a52b9b72a4a12d1a072bde0879a2b3b283f0a2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/events/countdown.mp3",
+      "size": 2032,
+      "sha256": "f4fefa7f202abb3d440b87ca2e4507a4c37436ee4a6298de0f2564c099242c17"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/events/countdown_final.mp3",
+      "size": 2812,
+      "sha256": "8eb92f79b6f0e0146f4a00a5311865ea861a3daf8105aa42cd9c0700ee5b127e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/compact-audio/events/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/device-diagnostics.js",
+      "size": 3878,
+      "sha256": "d08f720c496233f590d82b10ad7a35d05136acb8ca1213bfc31f7b8d386f9903"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/effects/goal-sprites-v2.webp",
+      "size": 337860,
+      "sha256": "5746b009b1f9728c5bbff9517bcd256f0062999ac39fa52cc51e236bf5eb722a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/legacy/flat-car/model.glb",
+      "size": 35788,
+      "sha256": "2df270293c258293fa111bdb18f2f486119cd33ff5a664abff5471512193191a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/legacy/flat-car/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/legacy/realistic-car/details.glb",
+      "size": 17640,
+      "sha256": "42f23c7e42d6525c7604a9ff6b303d49a2d45b1ab685ed70226e181037b0aa6f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/modes/hoops/court.json",
+      "size": 1398078,
+      "sha256": "1f419a1c2e91662b0b073b3939505b7f3e3b7a237092bebffcfb3d83d0849f37"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/adventure.mp3",
+      "size": 236607,
+      "sha256": "58ab19869c31e0b65c327485917c73f769e311aee2726276b7aac7e52a190e1b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/blank.mp3",
+      "size": 236607,
+      "sha256": "a54922af96ac05a9ddb42a3b811b28bae299172febe0f37453eb57731d403734"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/cradles.mp3",
+      "size": 236607,
+      "sha256": "f1962da710f899d2602436828dee5204f359d825ad0b32285b0d00cbaccbe721"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/dreams.mp3",
+      "size": 236607,
+      "sha256": "2edd102d75d56445ce514d3bf6b6880359f7a0e52500d4b15f08e2a59bdb081d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/energy.mp3",
+      "size": 236607,
+      "sha256": "0199721b159e5dfda2938c61f17d275b7f70bebcb2b5c4f715fbd025ee00d702"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/fearless-pt-ii.mp3",
+      "size": 236607,
+      "sha256": "04c685f23ee2c62b10c621cc21585b6fedd2676e029cbade77fecb91129b35a1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/feel-good.mp3",
+      "size": 236607,
+      "sha256": "55d7f6379a58f16a519cb70c4e45c80310f2d5b6b661d04e3a8622dd6e6eaaa1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/heroes-tonight.mp3",
+      "size": 236607,
+      "sha256": "247fdd80df7d17ffe1c9123930dd4e066334dd5958ccf9d2493fb4e7aba08e13"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/invincible.mp3",
+      "size": 236607,
+      "sha256": "0de284bdd21838e9c55561e658c1b26bf9c0ca7da508a3daf2c311e74a994e31"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/invisible.mp3",
+      "size": 236607,
+      "sha256": "f5fce955f8366d6ceadb391f2257eeabc0b10bb43683bf381d19c0f91be185a5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/link.mp3",
+      "size": 236607,
+      "sha256": "e3e63422c67d901233de0915e15aa79acb92edf51cfcf0f25ead0763a71f4d1f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/mortals.mp3",
+      "size": 236607,
+      "sha256": "ab2bd68566213934e7c2c0762d28f21a6be823520c902f611017d0aa6d45c75c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/my-heart.mp3",
+      "size": 236607,
+      "sha256": "bbda32e5a188afa8fd92411cbd4fa34f4a8372fee1b48717aebcc4ac01bb2cd5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/nekozilla.mp3",
+      "size": 236607,
+      "sha256": "ced52f521a93f5dea6abc12f49a6fb9dc14c362d8b087fd4e58362809a8d9569"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/on-and-on.mp3",
+      "size": 236607,
+      "sha256": "c0954258b8169415ec472807cc8de036dcae07cfc9538b3f22cb5008196b7629"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/puzzle.mp3",
+      "size": 236607,
+      "sha256": "66e66b17945b8b389e3492a447b82533ec45d9c1fcfd37f6c2f2c89234d8d5d0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/royalty.mp3",
+      "size": 236607,
+      "sha256": "79d3fc0967c468e63563e3c72e5dd9dd823221ebef4de935010a3df39b1e04fc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/shine.mp3",
+      "size": 236607,
+      "sha256": "cc43e703b51a65788daa398619f0916e2f2edb8c1db641c9f2212568060fb3b1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/sky-high.mp3",
+      "size": 236607,
+      "sha256": "cb80f3ab0f31dae534dba63460012f268a9b77406d6f5a349150fe0c2302b2f0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/superhero.mp3",
+      "size": 236607,
+      "sha256": "b2233f62130d122e24821cd7906d0673af792c3e56ec6d564146d8307b8a59ad"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/symbolism.mp3",
+      "size": 236607,
+      "sha256": "db27ed78a304367b20c7c6806af982c66fbe3f460c1a4e250a88cc09324edb86"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/MVP/why-we-lose.mp3",
+      "size": 236607,
+      "sha256": "ed31c7313f61a31057e6215a33549fc8d52bddc95192ebc7a5922d9e4def6f2b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/adventure.mp3",
+      "size": 4763141,
+      "sha256": "437df826c1ba3c3c994bc132d8a6ef0227490e54c3bd4353c5818b5463de5142"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/blank.mp3",
+      "size": 3345844,
+      "sha256": "ad3bc0e6cda3241faa1e11b190f1c85d618a37cb02ed89e987388455cfd6f463"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/bit-shift.webp",
+      "size": 2594,
+      "sha256": "e3a5668b3ed99eb3304940eae954ab240cc900a5de995c4f23acdd392c509075"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/blip-stream.webp",
+      "size": 3486,
+      "sha256": "70b81207703a1e16618bc33ec3c17f958271f85d444d8989c444e25497539d6e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/blippy-trance.webp",
+      "size": 2702,
+      "sha256": "d613baa8a5ef831c639e27736ced607aeb2802fe5656e2b1e0dc545980d3366f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/cipher.webp",
+      "size": 3140,
+      "sha256": "be16a4b264a9a9d48e2776e32fdcf598f28a3535404cce3fb25c46d4d5005ea2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/club-diver.webp",
+      "size": 2644,
+      "sha256": "e83b4f658eab72f4f5a9628644f5c7dad0c3cbcfac135834594fd351f6b14fb0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/dream-culture.webp",
+      "size": 3064,
+      "sha256": "6f5a0b1d8e9251104013f5174bf2694c1ce9a06350252ca5e22ec1d77b3b146b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/edm-detection-mode.webp",
+      "size": 3254,
+      "sha256": "c1b261eeacb1c0f367ac922bdf997ab7c3c0391f909d11fc7e5c2057d14373c4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/electrodoodle.webp",
+      "size": 3226,
+      "sha256": "899269605b3dff5b3bb75df1119509d0c908207ac5f36a002ca978d34a2d5573"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/exit-the-premises.webp",
+      "size": 3362,
+      "sha256": "46c9721103e405feac755030376e5fe02ee04e40b0a7589e0c80282dd36984f2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/furious-freak.webp",
+      "size": 4734,
+      "sha256": "58b6cf30267db8ffaaad311c0affce9f6c4b42e8e2ebe4323787d093fad17873"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/ice-flow.webp",
+      "size": 5560,
+      "sha256": "7020729f5fb69e5a25724809a401d0570d2537aee1faa8eb048136c884b791d7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/neon-laser-horizon.webp",
+      "size": 2314,
+      "sha256": "498ededfd94f95eb3c1b110b9fd555f645df98aef08cb0b4f0cf07efb4debbad"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/covers/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/cradles.mp3",
+      "size": 3358385,
+      "sha256": "ce64e1c74b433afe2d71a5f3c85e239c7db6879a8c95cd4344fe2adaa71d3f3a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/dreams.mp3",
+      "size": 3444482,
+      "sha256": "896b6a47fb5db5561ad780707b7d98f8815903bd81b944b46f25c33b131bbc95"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/energy.mp3",
+      "size": 3181172,
+      "sha256": "a347741323bc1cbd51aea5872d7160695785da17f2aba835ae6930d075b60801"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/fearless-pt-ii.mp3",
+      "size": 3108070,
+      "sha256": "f3481369dd9635f26c0ab9357bfdc506e33e8a0a76ea86d0290d9b33592baf16"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/feel-good.mp3",
+      "size": 2912841,
+      "sha256": "fddd7358518b0fc387534fc5c54acb8e62c8ba5590b911a8749472c613b58459"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/heroes-tonight.mp3",
+      "size": 3330412,
+      "sha256": "805a4a53afabe4b7c0901d78a6f09738baa6dc3086b9bf3949127201a409651c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/invincible.mp3",
+      "size": 4370266,
+      "sha256": "104f2f87c6688bf80c5da6473f01dced7ab1edb5476cdd7b217d0c3e175a622f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/invisible.mp3",
+      "size": 3220480,
+      "sha256": "8c4bd25d3c3a5e4cdfe856b84da56e0bb2f434cda6d59f580da1f4af445b0f08"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/link.mp3",
+      "size": 3592021,
+      "sha256": "c0ac4a1dc92bf138a9dd0d9cca4c868beb629ff297887421b05e8070e9ab025c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mortals.mp3",
+      "size": 3654750,
+      "sha256": "b232cbaecb3216914630accd026426211334116fca68638c8a4a7a196600a800"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/adventure.mp3",
+      "size": 236607,
+      "sha256": "58ab19869c31e0b65c327485917c73f769e311aee2726276b7aac7e52a190e1b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/blank.mp3",
+      "size": 236607,
+      "sha256": "a54922af96ac05a9ddb42a3b811b28bae299172febe0f37453eb57731d403734"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/cradles.mp3",
+      "size": 236607,
+      "sha256": "f1962da710f899d2602436828dee5204f359d825ad0b32285b0d00cbaccbe721"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/dreams.mp3",
+      "size": 236607,
+      "sha256": "2edd102d75d56445ce514d3bf6b6880359f7a0e52500d4b15f08e2a59bdb081d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/energy.mp3",
+      "size": 236607,
+      "sha256": "0199721b159e5dfda2938c61f17d275b7f70bebcb2b5c4f715fbd025ee00d702"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/fearless-pt-ii.mp3",
+      "size": 236607,
+      "sha256": "04c685f23ee2c62b10c621cc21585b6fedd2676e029cbade77fecb91129b35a1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/feel-good.mp3",
+      "size": 236607,
+      "sha256": "55d7f6379a58f16a519cb70c4e45c80310f2d5b6b661d04e3a8622dd6e6eaaa1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/heroes-tonight.mp3",
+      "size": 236607,
+      "sha256": "247fdd80df7d17ffe1c9123930dd4e066334dd5958ccf9d2493fb4e7aba08e13"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/invincible.mp3",
+      "size": 236607,
+      "sha256": "0de284bdd21838e9c55561e658c1b26bf9c0ca7da508a3daf2c311e74a994e31"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/invisible.mp3",
+      "size": 236607,
+      "sha256": "f5fce955f8366d6ceadb391f2257eeabc0b10bb43683bf381d19c0f91be185a5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/link.mp3",
+      "size": 236607,
+      "sha256": "e3e63422c67d901233de0915e15aa79acb92edf51cfcf0f25ead0763a71f4d1f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/mortals.mp3",
+      "size": 236607,
+      "sha256": "ab2bd68566213934e7c2c0762d28f21a6be823520c902f611017d0aa6d45c75c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/my-heart.mp3",
+      "size": 236607,
+      "sha256": "bbda32e5a188afa8fd92411cbd4fa34f4a8372fee1b48717aebcc4ac01bb2cd5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/nekozilla.mp3",
+      "size": 236607,
+      "sha256": "ced52f521a93f5dea6abc12f49a6fb9dc14c362d8b087fd4e58362809a8d9569"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/on-and-on.mp3",
+      "size": 236607,
+      "sha256": "c0954258b8169415ec472807cc8de036dcae07cfc9538b3f22cb5008196b7629"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/puzzle.mp3",
+      "size": 236607,
+      "sha256": "66e66b17945b8b389e3492a447b82533ec45d9c1fcfd37f6c2f2c89234d8d5d0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/royalty.mp3",
+      "size": 236607,
+      "sha256": "79d3fc0967c468e63563e3c72e5dd9dd823221ebef4de935010a3df39b1e04fc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/shine.mp3",
+      "size": 236607,
+      "sha256": "cc43e703b51a65788daa398619f0916e2f2edb8c1db641c9f2212568060fb3b1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/sky-high.mp3",
+      "size": 236607,
+      "sha256": "cb80f3ab0f31dae534dba63460012f268a9b77406d6f5a349150fe0c2302b2f0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/superhero.mp3",
+      "size": 236607,
+      "sha256": "b2233f62130d122e24821cd7906d0673af792c3e56ec6d564146d8307b8a59ad"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/symbolism.mp3",
+      "size": 236607,
+      "sha256": "db27ed78a304367b20c7c6806af982c66fbe3f460c1a4e250a88cc09324edb86"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/mvp/why-we-lose.mp3",
+      "size": 236607,
+      "sha256": "ed31c7313f61a31057e6215a33549fc8d52bddc95192ebc7a5922d9e4def6f2b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/my-heart.mp3",
+      "size": 4274567,
+      "sha256": "cfa29f60aa2bd357061d5897a86537e91fe31729fbf67ba7b6113be650ad82cc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/nekozilla.mp3",
+      "size": 2657058,
+      "sha256": "d421b70481a0d41750413ddc1c33e4baae1916ddc367056401881d9eb4ddf92e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/on-and-on.mp3",
+      "size": 3329166,
+      "sha256": "30634ec88fab208010a199d8e2a748c3afc6cad8080a40587c1a132d30f06c3c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/puzzle.mp3",
+      "size": 2721834,
+      "sha256": "5e854d513e2842930e61adbf97d63d01307852fd323fbe8aeaf7a01f736a7766"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/royalty.mp3",
+      "size": 3578251,
+      "sha256": "45acb3d5bd2cbf091d0469818a0a0ec08701c8519a973a4efaa2dda45443794e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/shine.mp3",
+      "size": 4146235,
+      "sha256": "4293c4a973a3e8f55268fa7dbbbfdad762d2bd8c21755e3908e585066a880f67"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/sky-high.mp3",
+      "size": 3781781,
+      "sha256": "43b64b0a3d7694bedaf794e3d67e4d19d06b604746bd580ba276f04ec1b69e60"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/superhero.mp3",
+      "size": 2868578,
+      "sha256": "de3f9198284bc363ce1a294ceaab2db07034226fe3174abd67b3aac17d215b4c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/symbolism.mp3",
+      "size": 4658662,
+      "sha256": "67bfdb2cc213f36d377821b7d33e80795a5d2ae7c8be0dede8eabc80bc6567eb"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/music/why-we-lose.mp3",
+      "size": 3409841,
+      "sha256": "57f4aec119d1b0e38314f254e97b779681ecf5d4a4872dd1de294bd17922b893"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ort-wasm-simd-threaded-CxTQ5xH-.wasm",
+      "size": 11905541,
+      "sha256": "45eaee27761ad883742a8d4b8fce1538d60ce43b51adf1726fafccc59b8c1a15"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/partners/play-games-logo.webp",
+      "size": 15144,
+      "sha256": "e2ef8c19341bc3ff20a28a758ae2f16381fe560ce006bb4d378fc57222c11362"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/partners/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/boot.ogg",
+      "size": 1981,
+      "sha256": "8dfa452289f150ca89fd2637ed59fa63be768f03d15e4a87cf48ebb5751bbbbe"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/boxing-glove.ogg",
+      "size": 2366,
+      "sha256": "a8fea3f3cfd5e71eacaaddeeb9b385b9c323c9b3fb6c735141d0f241e67816d4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/disruptor-loop.ogg",
+      "size": 8457,
+      "sha256": "39408924c1fb1d85f8afb187dbac8b2aeab74ad5b1940aaec4c798991357df6a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/disruptor.ogg",
+      "size": 3361,
+      "sha256": "57cf50d45a3ecd040bc8d98c7b5f99d1233be54eec7b1b2fdc8879312eee0f96"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/freezer.ogg",
+      "size": 3006,
+      "sha256": "15fc3519fa6eedcd4aecdc889e50c6a18b7e709f852f15f604f378d29c2bc6b6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/grappling-hook-loop.ogg",
+      "size": 7430,
+      "sha256": "9d6154acc4c26aac828e957a311f59df7b0941449da13c2d198ee68641c17a30"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/grappling-hook.ogg",
+      "size": 2875,
+      "sha256": "47ee28dcd79a5f6dd9f8097548bb158d0c463e6f674531628f3efb1fdec155ee"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/magnetizer-loop.ogg",
+      "size": 9128,
+      "sha256": "4e3bd165d3641f7e05c65aa36f505de6cd319bf9657913666da8b6e7e865aa5e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/magnetizer.ogg",
+      "size": 3466,
+      "sha256": "182f617bef7074b9cfeff2060d029b9688374f7051683cedb3a309df4733ad89"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/plunger-loop.ogg",
+      "size": 9275,
+      "sha256": "25811d4b4357a340f56a5eb5177acdfe017da4557ef25862980954c9f4ef5276"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/plunger.ogg",
+      "size": 2573,
+      "sha256": "bdcc1e31b51feb2db9d5b76ed4bbf5ee275fa37ee73ebbf34bf9ae76ae29363c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/power-hitter-hit.ogg",
+      "size": 2212,
+      "sha256": "a5e7a88e893db16f0618b445be0779ddc0725e956c07bbc8ef0e3326be8b6702"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/power-hitter.ogg",
+      "size": 3015,
+      "sha256": "8bf7d6a1f1228500e005eacfcf168254e7dc3c58ea3e673afb2085426af13bce"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/spikes-catch.ogg",
+      "size": 1686,
+      "sha256": "c3e89974e8bb2520eeacd962d50667b04881eac1c82ea41b6a7fc441f94d9139"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/spikes.ogg",
+      "size": 2067,
+      "sha256": "40099a668649b1fbaab202396a9e550affcc1cd70e3950bdf33328b48cfa4066"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/swapper-transfer.ogg",
+      "size": 2548,
+      "sha256": "0efd820115cd94eec7588224449bfd70845afbddc5162a48f87da20c69aa5522"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/swapper-windup.ogg",
+      "size": 3076,
+      "sha256": "1abbd880297891f667382711d337fecd6870dcc1401213615c86841040663ac1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/tornado-loop.ogg",
+      "size": 7688,
+      "sha256": "7daf1fccf9d94379d845e90cf9e9bfe1c3cbedf357bfdf63797715a5f49761f7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/rumble/v1/audio/tornado.ogg",
+      "size": 4039,
+      "sha256": "3f622e263512630ef03b3af1ed1e95b21b8eca9a81b6d3165b7c54c9a8226c0a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/shop/crates/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/shop/crates/small-purple.webp",
+      "size": 10308,
+      "sha256": "a078d4b803a2696b2fbfc1740b2aab4a8d5dab24c075b0f7d05d10266c2f381c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/training/sky-rings.json",
+      "size": 172749,
+      "sha256": "f9210bb66c2c1e2977b37c7e9702c7f1ab910dfee085748202787f2f30533d6c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/turball-ga4.js",
+      "size": 4817,
+      "sha256": "b8109f81318eb34f93ac75a85153242006469c72760c9014ffa5fdaa60dc3f4d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/turball-telemetry.js",
+      "size": 2661,
+      "sha256": "235387e4c27bff540dd227d60361c111e1066f3d02c056b2497a5b36c17bcc76"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/alien-emoji.webp",
+      "size": 7960,
+      "sha256": "5aa75406e42ae3d00f1c3208840b6a93394237459c40f4d578cd1b0453cc2abc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/angry-face.webp",
+      "size": 8340,
+      "sha256": "7e2c456c764e09e57f9cab00e6780ac70d54cfd57bacaac4d7ef04276dd183f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/beach.webp",
+      "size": 6722,
+      "sha256": "cc3b55412ff1f5312255d99cc5fc3aa74499fd8ad596def13513b49b6851bc38"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/bubble.webp",
+      "size": 15554,
+      "sha256": "4b7fd453ff68204f34013fee0c95f9c83e0a4fb1681f3c2775613e176c389861"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/clown-emoji.webp",
+      "size": 9278,
+      "sha256": "bb1a92d2131da43e80f3a28dc644c6a8f86c447e5491c51f1d85f5981b5f8246"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/coconut.webp",
+      "size": 11324,
+      "sha256": "4a72f7ae1c6c22da55200ac962bdc69754d9a16797ed65450a115d6669d3e940"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/default.webp",
+      "size": 12020,
+      "sha256": "af9dbe49b936a2177fb4d8a619465085811314615158ead0d87027014526afa6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/disco.webp",
+      "size": 15958,
+      "sha256": "9ed084514aa4093098f1bcc16d86ea567385cfbf16119a0e88b9891ff7c7f66e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/earth.webp",
+      "size": 8514,
+      "sha256": "db516e54cf0950c04ec04f17e515c825ec7fefa56131750d866e8e23292a978b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/eight-ball.webp",
+      "size": 7840,
+      "sha256": "cc44f7b31382a78857dde2ba4dee5cb522d6901d70beade42b906a800812fa1b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/evil-emoji.webp",
+      "size": 8952,
+      "sha256": "26dd7fbdfe2130385912f77af970c7f9adc47aca9b7ba8311093b6874fef5c32"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/eye.webp",
+      "size": 9576,
+      "sha256": "ddee59a2505382b64a937b1dbc4d7851b61a6f63e42aa09a0af809f5087a40f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/football.webp",
+      "size": 8090,
+      "sha256": "8b0f801a3a865b5a8a9fbafca206534b64ac48480e88be7afda6cd1203d97851"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/freezing-emoji.webp",
+      "size": 8624,
+      "sha256": "831b5befbd1e9bdba460f7c8d5e761fe17afdf1960cee02b65bd6f4263d3c199"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/golf-ball.webp",
+      "size": 5992,
+      "sha256": "6d173ac1bcbec6ccb5a6964c7d2c806865557e14be2e0cec7d635d14d8a84462"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/joy-emoji.webp",
+      "size": 9312,
+      "sha256": "2fbeb8445c4305801032a5b05b54f877730076bcebb5ab61e53a111fc81ffddd"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/jupiter.webp",
+      "size": 10216,
+      "sha256": "b9c9655af552bdf4afe37ac6d3d7812048d98a6f50fc4da98289443922b6ba9a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/moon.webp",
+      "size": 7148,
+      "sha256": "2e511758d14682475366bbe87e6f143e34b6641dbf14f91c3edc36320343c77b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/orange.webp",
+      "size": 9596,
+      "sha256": "7965cc158b8b3cee150f176f0ecf62a5e713593e53b83c26e76f2d98c3cb9b36"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/pearl.webp",
+      "size": 6194,
+      "sha256": "e84255eb2cc094c2e18b0b77d4c90c9e65236da72c804ae1f96822b601325676"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/poop-emoji.webp",
+      "size": 10162,
+      "sha256": "e50b9dc19a6e2a8d868319be64d25a23171df66060150c515354f3f1fad9f0b1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/skull-emoji.webp",
+      "size": 7748,
+      "sha256": "68b4aac727a5919a561a149bf4bb55ca6d3f3a64a0047c90ca8b42091e7ae119"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/sun.webp",
+      "size": 9964,
+      "sha256": "26ffbc7a66978a2c95f54e506e58760a6fd2d32f77228295dfab42be0af98fe9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/tennis.webp",
+      "size": 6550,
+      "sha256": "955249be323f66165ae006d9d1d7fed121cf5db0c1f461c3b85432cc6c6d7829"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/tomato.webp",
+      "size": 7974,
+      "sha256": "a85e93773a60fa3e424ea8751ff320c8753122783808189fa5868085e3a42302"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/balls/watermelon.webp",
+      "size": 10544,
+      "sha256": "9a25b142de049fe8476ee554f8efd4d4014315aca5f4a9a669c32459aefb0f9c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/cybertruck.webp",
+      "size": 12450,
+      "sha256": "ad2f4ad6ce0352c691a0f4ca9581e2c27c7c67bf1bc47c4c996f72fda1fcd7d4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/fennec-apex.webp",
+      "size": 29520,
+      "sha256": "e708c80e01e45815841c0e09b0ff6f9b9e30467a60f7f48b7eb1cb1f6959271f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-aero.webp",
+      "size": 12272,
+      "sha256": "92994695fc3cb7ba0e072295b09b180c91a2eb5f446f8ac5e8e9a1a0621a0be6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-beadlock.webp",
+      "size": 12290,
+      "sha256": "98f1e18c667c210a4a73d1c0f6879f1fa66e2df5e6a44832f053fd0ca342a726"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-disc.webp",
+      "size": 10718,
+      "sha256": "66f1cd81065e7e49dd13b3f8882214a1d10d5bc55cc318d69444209e2ceead79"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-forged.webp",
+      "size": 14086,
+      "sha256": "40d7c8ff2a4125f7ceda1cc4cf6ab089281b8aa8fdb7cfe9da49a31a5d5094cf"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-helix.webp",
+      "size": 11860,
+      "sha256": "26839470823a136dddd90f45030109eaa1b80b0f721700263f63fa025a7d3cde"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-hex.webp",
+      "size": 14250,
+      "sha256": "523f3574977e617e415387e7bcffd12fcc26bbbce8911112ced3c59b8eeb6952"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-mesh.webp",
+      "size": 14514,
+      "sha256": "b3f939cda22ddd8d93618c0015e739f0a7aec1f0991f8e6a9894820f992bb765"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-oem.webp",
+      "size": 11754,
+      "sha256": "6619530e4d986379875ffe481656df6cb3ddb04ab31b077fd270515bf9cfe311"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-orbital.webp",
+      "size": 12650,
+      "sha256": "f5d987834fbe058a406d0146f3c0c1611c65b3687928b85c485035b1cf3f1e6c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-rally.webp",
+      "size": 12710,
+      "sha256": "ce7533ccee71316be408e7a68362b6105091e98259ad838115c78967191575fa"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-razor.webp",
+      "size": 10588,
+      "sha256": "fe7aea12c922fa40fe49c1fcc6d5a7fa38eb4abc12e9c68ed2708f18f7eef104"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-retro.webp",
+      "size": 12870,
+      "sha256": "112e8a9c53276b1ee58c9b9330c32f0132e7d6a24594081b65c12ef540ac768f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-split.webp",
+      "size": 12504,
+      "sha256": "39b4942ff0ba787bdff4fdefee9170bf2d4f0489a8dbc98fe7ff24bf0884259c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-star.webp",
+      "size": 11648,
+      "sha256": "b9538ec07b9d4854febd0aa4da06b38550e91285d4caf0991d3c2748e156bcc2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-turbine-pro.webp",
+      "size": 12708,
+      "sha256": "980f55a170c354ca99342c9b512c6390e763f465bdc4beeedcba66f8bb53de00"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-turbine.webp",
+      "size": 12950,
+      "sha256": "b823f761a56d7dfc0e2e6fb5028bb930c5b91cd61e7819afa277402750dfe333"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/cars/wheel-vector.webp",
+      "size": 13684,
+      "sha256": "25b8a7d27aaa546f1a3a6ea60ce0137c630aa6c11a9ae092b581029bf064d5f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/arena-champions.avif",
+      "size": 16486,
+      "sha256": "8817d280563c352b1003b55a3cf5f01f645bf0c806193c0ad4569860dd25e111"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/mode-doubles-small.avif",
+      "size": 5810,
+      "sha256": "f2da937f103a923fa88271972d0541a302d44a65afcbc634f6caa870135d6557"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/mode-duel-small.avif",
+      "size": 5167,
+      "sha256": "80434970855a6786a9e4389e6dc9273c9a92170e525b63be4bf8bb2428bd47ff"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/mode-extra-modes-small.avif",
+      "size": 11266,
+      "sha256": "49dd4c55536882bd1c5fcf385ef692c8d3e370e9a9ffcae07218e4578a5d4628"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/mode-hoops-small.avif",
+      "size": 5107,
+      "sha256": "3deb4f11908e90b355772c554fc604ae0c62203fe2db7e9bbf26bcf41efefaba"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/mode-rumble-small.avif",
+      "size": 5766,
+      "sha256": "c09df1d3cc5bbb28fb15ce2c81e38ab561d0bdb8c78ad46021fa6f7ced27b72a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/mode-snow-small.avif",
+      "size": 5644,
+      "sha256": "4fdb56b93a6dbd289c16d6c95f76c32e3fac422c98f9db3fc527a53cecc6a0ce"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/mode-standard-small.avif",
+      "size": 6353,
+      "sha256": "882d5bc9b42966ec2ad918ba0613391c6e2ff08aece39b548138c0f402773573"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/tile-casual-small.avif",
+      "size": 4078,
+      "sha256": "8e8f38efab9b7d0bdd84353500248e931f399997fbc61971a7f064b1b20c1a01"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/tile-competitive-small.avif",
+      "size": 4827,
+      "sha256": "63e4b672957b0cca427ac2919df7c6c54cb8d30843b7c81b5ea9103624e321d5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/tile-private-small.avif",
+      "size": 3886,
+      "sha256": "8ef3a8ba5150d09df86bdcf6ca7b0aab40f0617b8090b98071597effceae513e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/tile-tournaments-small.avif",
+      "size": 4478,
+      "sha256": "304ce4980cd0615593491af89a3e1590f49f9ee0a68094683d6ccfb6f385f42c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/tile-training-small.avif",
+      "size": 3999,
+      "sha256": "816deaead272fa428f07ad8878755195f7c087e59da5d0fadaf7d2a19020f03c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/training-aerial-small.avif",
+      "size": 4672,
+      "sha256": "8bd4646c6669eec0a471f81f4b3864a4614af132531e7d1ff00ecce31bae5f42"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/training-custom-small.avif",
+      "size": 5623,
+      "sha256": "dbc4293773f3871839a992ae5075900c641d47088931cf1b8ead51549e3322c9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/training-freeplay-small.avif",
+      "size": 5410,
+      "sha256": "6845f940fc176a25e29c78c0ce9a6176181900710bcf98b5174050f2bb282d1d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/training-goalkeeper-small.avif",
+      "size": 5312,
+      "sha256": "3719122386fea9dcc993ab550d4f3714dd827eb4ed3665603bc953dcd7bffa86"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/training-striker-small.avif",
+      "size": 5232,
+      "sha256": "047e7746c27e90bcd35a6e19f2128a4a3d2c0758c0d05ee6ed8bf9ec616b5098"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/menu/training-tutorial-small.avif",
+      "size": 6178,
+      "sha256": "045a9814455d003d21e5fce72f7598d7d3ed73739d6f91ecaa135805b192cb51"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/news/season.webp",
+      "size": 78564,
+      "sha256": "5270c08da84af1e9c706e30119d17f23d9555e4fc2fa7475447dd1ef41d89dde"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/promotions/carmania-portrait.png",
+      "size": 2359347,
+      "sha256": "cdca37d9103e41e3980c475429ecc6d9c8ebf19740c27cabcf01463d29283eea"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/promotions/copchase-300x250.png",
+      "size": 434125,
+      "sha256": "fae599b8c9a0000c9f1666ac3f358759386fa9e09977f668c17d78a3f1892293"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/promotions/copchase-wide.png",
+      "size": 387741,
+      "sha256": "59577d43dec959035ec837072aab50fe372ae923fa5d22d2ba79bf8d2ca901f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/assets/reference/news.webp",
+      "size": 188708,
+      "sha256": "0f15faec41be755396fe5ad13fb7ec2bf2b284f10a6b231327120de5e17e781b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/credits.svg",
+      "size": 2414,
+      "sha256": "2757d31413a09d5783a0362a7ad4248b1dc936d1bb0f746b583360fe7a9bb357"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/match-badges.webp",
+      "size": 57542,
+      "sha256": "bf349b4f4622954b498eeec3907467b49d9deff9bedff4ee320dd9221ebe7533"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/pedals.png",
+      "size": 11652,
+      "sha256": "3468a55f89a98f24102a225a2e2dfdffa960ca164b50fc81dd238613a5fd5fca"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/rotate-landscape.png",
+      "size": 2626,
+      "sha256": "a013344f9e03c807c456a915ac44c914e0df83992ee7ee0c67b21a661b24a31d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui/spinner.webp",
+      "size": 1198,
+      "sha256": "8f89511d5ecac9a70862f70a05fbbbcec4b88a6355faa80364eb6db586872a45"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui-fonts/Montserrat-Black.woff2",
+      "size": 126216,
+      "sha256": "2d54693cc31b0f25e6c7fe78254b0d79437d6df5d312829fa707977c38271e9d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/ui-fonts/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/aero.glb",
+      "size": 206256,
+      "sha256": "27dbb617fef3a7b17a0dcb729fe249c33dc4d5635727dedb618f83d6aca5a0ef"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/beadlock.glb",
+      "size": 273920,
+      "sha256": "cdb42ee63b06177561d9a74d61739f1da7d4053fa02cef955aef05cd5ba9e50e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/disc.glb",
+      "size": 219724,
+      "sha256": "0d05bdc744118dc0ed16b08ea15af5d33e55d82d93d5d43069368be788aed967"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/forged.glb",
+      "size": 221708,
+      "sha256": "c75724e1ce07be5f2193f9764f73e861e2b5bd24f39611e011c8836691cefc94"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/helix.glb",
+      "size": 187872,
+      "sha256": "105c2be0b47e6ccb56e1fbf03b7c69d7ffca2762f3294d27ce888ac03ddcddf1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/hex.glb",
+      "size": 207612,
+      "sha256": "91a6b34e538fc5467676c8688e3a09d2c2fa4aef6645d93487ea04cd228e7d64"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/mesh.glb",
+      "size": 228476,
+      "sha256": "7f94aae9343df7c2cf8d4f14856bc109b088560687b7fde8e62bc1271185a55b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/oem.glb",
+      "size": 185612,
+      "sha256": "b7df3ffd70c91090cefaf5e55b3528d279c92bf824a9e0a272c805c466ab0298"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/oem.glb.gz",
+      "size": 44448,
+      "sha256": "5d8b2fc366afa2183d8f0e75a380a61024f221388a211fe6bd4d03e85522023a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/orbital.glb",
+      "size": 226496,
+      "sha256": "639063eb1604e628bd890d411f4a3141a28ec2e5a6a7719f4ce62c030ac655e8"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/rally.glb",
+      "size": 201404,
+      "sha256": "2f5aa9f106a016e53536dac1e4755008f6551b39687ac4b699a0c9af3ea37556"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/razor.glb",
+      "size": 181100,
+      "sha256": "671ce52bf4ef185f0b76d573668ea719c8de6155a63629c9c2125cd970805096"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/retro.glb",
+      "size": 192380,
+      "sha256": "743315bbfd022be2161420c8b42cf948479c2e37323d29ce82d1740ceb22cdbe"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/split.glb",
+      "size": 208172,
+      "sha256": "5c7a4ac4a7101c463ef8476f22515a63c55fb28020199bcea3caaee1dfad31fe"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/star.glb",
+      "size": 185612,
+      "sha256": "75683a9514f86a7495871c25366809720d3fb60fc3531aa6eb1c9167110f2911"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/turbine-pro.glb",
+      "size": 201412,
+      "sha256": "1f76deb71de6766ce646f98ac160bb66ff67a22169d179d5defae22adc658c8c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/turbine.glb",
+      "size": 196896,
+      "sha256": "2b9dbe5e60df64c3b9bf72c47624ac19711b06eb7fcc8aa4a17f00830f15b1bf"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/wheels/vector.glb",
+      "size": 196896,
+      "sha256": "caab3a112bc62c4d6728969e0566ed406ae85d36d6f0afa5a2972ef3d64b7451"
+    },
+    {
+      "path": "turball_extracted/assets/releases/487732d9f2ee-39108558102-1/worker-iFqqV1m9.js",
+      "size": 69707,
+      "sha256": "b719dd8ea2346d4c61d8b9381550c00289e7adc92a13a7884023dbf902255f51"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/branding/turball-wordmark.png",
+      "size": 44100,
+      "sha256": "aaef6ba407f3afc20b55556cc76c5eb59e83d6168132f29c39aec2d854fbb280"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/canyon.json",
+      "size": 276,
+      "sha256": "c78006092edfcc57d993d6e534d4d9a8afe05a9469ad322900382c4e9adbded4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/champions.json",
+      "size": 289,
+      "sha256": "ee07a07237b230ff6760fc81bfc76245d6643b787de6b1efbbc8e18c9832c337"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/coastal.json",
+      "size": 279,
+      "sha256": "471d3a4dd6b274c7bf0f942aba309a385ddf95767550455b8ee5f4364d831111"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/crystal.json",
+      "size": 279,
+      "sha256": "f67f9f1c65d996ed1b33d7501828b50c540debc816e636019dfd3b824d59c3c7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/dunes.json",
+      "size": 275,
+      "sha256": "2b5966ec4807292f8addc39387ec0d0a2499965d709aba763796d55d5ec763a4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/forest.json",
+      "size": 275,
+      "sha256": "4a9049482b274d771b627d53cec34a0aabde4f772bcf1582362c9b0bf8588c66"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/foundry.json",
+      "size": 283,
+      "sha256": "c494b69f49fe886d686273106a1a95f873c97339a63ee2bd368375b26b0fd715"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/glacier.json",
+      "size": 280,
+      "sha256": "c728060b93ee74b53d7fccb320bbd72655b5dab4f2ee9076f53a1fba099cc4d7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/harbor.json",
+      "size": 278,
+      "sha256": "83b73259bfcb386da1f256fc50a2150b2413657f62903411056b22c6b021d7aa"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/lunar.json",
+      "size": 271,
+      "sha256": "324111200c55e739bf10ce159aa62db91812a33808751aebec860375ce9cea15"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/canyon-v2.glb",
+      "size": 965020,
+      "sha256": "c9318ef4c7d159ef57b8332e347858fb8a9d296d5f7b5656a70ccd5a79d054a5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/champions-v2.glb",
+      "size": 1461640,
+      "sha256": "4d084224a59f15e3949aae162ce34a8c036d9e7dd3a8f2b9ed732d7e5f09b4f0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/coastal-v2.glb",
+      "size": 802272,
+      "sha256": "b1902e1ad7ddc22fb2cb3f1902476baebb8b2f808ce448fd8e0008e424e67d8e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/crystal-v2.glb",
+      "size": 992680,
+      "sha256": "f7ae661dfeaa06cfed4cbab275bac77e5b331aa4b3238be99248e3e3fbee970a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/dunes-v2.glb",
+      "size": 1066492,
+      "sha256": "0a82c0ea09542da07cd00786a3a931b69c47670a38ec0f5939dbd940bbae64ca"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/forest-v2.glb",
+      "size": 1267620,
+      "sha256": "10934070838869dd5a1b9b6c733488db36940e3e29cec9e3dd8a21b9a44dd9eb"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/foundry-v2.glb",
+      "size": 1236036,
+      "sha256": "ea2b7a63c2b91caf48f5b20496c517055b28da1f8660e3393ada03522f31237c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/glacier-v2.glb",
+      "size": 1075676,
+      "sha256": "7f01c2b9b19ed3b3e248c8261e083e2e7e8b5fbe6d4cfb242206e045bdd79fad"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/harbor-v2.glb",
+      "size": 757992,
+      "sha256": "cd64aa3631d5bb8565c8cfabd8e2a8acf9354aa3f4116739d76eea217cf96476"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/lunar-v2.glb",
+      "size": 1351964,
+      "sha256": "3f98fcaab54de90619a5923fedb64bd6ce655d4d3d9c535471980bfe55bc4752"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/neon-v2.glb",
+      "size": 1449200,
+      "sha256": "3c94a508f56b005851898f29b090f91c4daf0402dd41e6aed06f6c0ad61a9400"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/oasis-v2.glb",
+      "size": 1211028,
+      "sha256": "882b0809067e2ae8998f99e7546adae0135a684007826fb3b4bc8c46be8327da"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/orbital-v2.glb",
+      "size": 1225648,
+      "sha256": "c3c1c8daa3ab1545b78212ad99d3a53e72dcada9d3fa13691d49fdd4c074f691"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/sakura-v2.glb",
+      "size": 1899636,
+      "sha256": "d9906a871fa75cfe2c2c02155fddcd167c2dafbbf65ce52ea8c3ae2284449c24"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/tempest-v2.glb",
+      "size": 965804,
+      "sha256": "03032b2288ba660837ed77c231ea94e1935c4ef30bde9b2e03191547daa9ab16"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/maps/vineyard-v2.glb",
+      "size": 1390756,
+      "sha256": "3dd51e53d1ee6caa8aa0c30ea43df8292cb22f7676775f55b66147e8326a073d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/neon.json",
+      "size": 271,
+      "sha256": "4d8e546708b7d7776c50f5cf9a8ba91880ec355d1ee20bddecd8772be6347982"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/oasis.json",
+      "size": 272,
+      "sha256": "70b3a50995295dcae6f2e9376bffd928fff50ebc7ab1a80d8d3f83fb09a46032"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/orbital.json",
+      "size": 284,
+      "sha256": "d2a76e2ff5470f5c974e5818ac45b1b4730115f66264aab9be756faaf88de5a5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/sakura.json",
+      "size": 273,
+      "sha256": "08c4c270d95ab13517a506725b1ef8e29bd0e8e3ecb68478f0685b2f97af95bb"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/alpine-dawn-cube-v1/nx.webp",
+      "size": 14646,
+      "sha256": "ca47df17f107604c673a25d2be63a780a45af5f0bfe154d55a7d5883f13eea2f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/alpine-dawn-cube-v1/ny.webp",
+      "size": 4306,
+      "sha256": "c8ec427ac70281371b86ee93a94db6fa5adfdbd7fb5cd326f943b176abd6db76"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/alpine-dawn-cube-v1/nz.webp",
+      "size": 17456,
+      "sha256": "89b746fae17b41199b6024adb479ff354d1134521f96cb43fd788898e0b9097b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/alpine-dawn-cube-v1/px.webp",
+      "size": 18836,
+      "sha256": "e07199197991a1aedb3cb20642803c5efbeeb228adcc7f3ec6f7401bc649fca9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/alpine-dawn-cube-v1/py.webp",
+      "size": 32882,
+      "sha256": "b8c82d26901876a1ef65bb521806e61db0338255827eff10e5f0e18267f3c621"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/alpine-dawn-cube-v1/pz.webp",
+      "size": 16562,
+      "sha256": "07e72095a8d88cfd03591c01c6bc9f754277766ea43481e59cbfebd73f728e67"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/champions-day-cube-v1/nx.webp",
+      "size": 24276,
+      "sha256": "35ebdac1a8370718af2d9892a6a4041eddf4dbbb61a42df152faadde9917d3a5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/champions-day-cube-v1/ny.webp",
+      "size": 3494,
+      "sha256": "384a708f8c0399397cabe7555274cb3adaf49ce5a2bafce70ee7f2298a239a5d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/champions-day-cube-v1/nz.webp",
+      "size": 24908,
+      "sha256": "917f057d346294f682bb0860fbab775ae420828068d185d0266c921cf4179609"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/champions-day-cube-v1/px.webp",
+      "size": 23970,
+      "sha256": "c36f9583425e2381c787244d36bfebaa33fb5f32a976b3d4f16a58351ee4073e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/champions-day-cube-v1/py.webp",
+      "size": 37002,
+      "sha256": "37fecdeb222ae530fe45cfdc8f5295cad4862225de42c4c7325eae82d4d9db15"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/champions-day-cube-v1/pz.webp",
+      "size": 23548,
+      "sha256": "d4966211fe6ca7d0664421bd031fb8af63aa89aeda929569fe0bda890979ec82"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/harbor-sunset-cube-v1/nx.webp",
+      "size": 20094,
+      "sha256": "5b06a18e2c2f3943061f9f06685137be3eaa83c264b42f5cd61a9b9ecca6ed7a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/harbor-sunset-cube-v1/ny.webp",
+      "size": 4430,
+      "sha256": "964e2950087aff68d5e62122d905d875a2546674ae2c6dfdc56816e94ea4d6fc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/harbor-sunset-cube-v1/nz.webp",
+      "size": 24122,
+      "sha256": "241c77fff2e792bf6071bbb7462acfaf623ad5c29b00c84b23600c2b93069f40"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/harbor-sunset-cube-v1/px.webp",
+      "size": 20162,
+      "sha256": "c65c1a342ec838269a0c14a82d7af73be67fab277871f084c3b323b81d0b1ba4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/harbor-sunset-cube-v1/py.webp",
+      "size": 31590,
+      "sha256": "e79685826b6010800726a53a128f2c89a20ab41298872187247699d224cce12f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/harbor-sunset-cube-v1/pz.webp",
+      "size": 19774,
+      "sha256": "bb6061f05852a4bd34693f354ae20e7b83fb0e42de001e8c39eefe9a6c35705d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/midnight-stars-cube-v1/nx.webp",
+      "size": 19472,
+      "sha256": "aa102fb6c72b66e2819cc6b958caa39f3730adae4f23fe59cca55d6ac1a2aaa4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/midnight-stars-cube-v1/ny.webp",
+      "size": 3574,
+      "sha256": "a3585df797b6ed384093469ca3e22db35d2c22671e6122d1bf6d9ddb4d620c5e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/midnight-stars-cube-v1/nz.webp",
+      "size": 20756,
+      "sha256": "86787de8b263e95f568acbd1022343a6c890246565129c611c50c7c48ba5d705"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/midnight-stars-cube-v1/px.webp",
+      "size": 22452,
+      "sha256": "3896dfa4caedfc3d23fd0153b419c5a203de9e7d30416f847eae6b6bb5796605"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/midnight-stars-cube-v1/py.webp",
+      "size": 44176,
+      "sha256": "c77fefde3c268ebee5d83c1ef91154d17ea1a9f05bf5614c795c86f4edd60884"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/midnight-stars-cube-v1/pz.webp",
+      "size": 25576,
+      "sha256": "ddf1f3fffb08ceb57fab686de673eb591e2df781fe2ab71575f20347a7a6990f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/storm-front-cube-v1/nx.webp",
+      "size": 14676,
+      "sha256": "82eceed27b37b33b10be82e8b09482509f65bfc26a5787b9cd50f7d4d72ad848"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/storm-front-cube-v1/ny.webp",
+      "size": 3942,
+      "sha256": "bc424d1fc0e28b514c4acdda351cbb78a8ec88e546ffe283228c1af55d825ed3"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/storm-front-cube-v1/nz.webp",
+      "size": 21416,
+      "sha256": "169c98bc6d370fd3c25a15f5441bef997d692a22f8cb4086c933aea57724d2ef"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/storm-front-cube-v1/px.webp",
+      "size": 16012,
+      "sha256": "87ac73a991e51b8079f73f426e986ae65b0361badc4c0b24c198d23e3856d1cf"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/storm-front-cube-v1/py.webp",
+      "size": 37830,
+      "sha256": "a11b4aec4773983e2340622f9d41fac6b87c1535130cc3aeaf37f1e8b97eeadc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/storm-front-cube-v1/pz.webp",
+      "size": 25950,
+      "sha256": "57c158138397d449e12e9d61c2e7d4d793ad82855e81d9eaa1687f3e083cba24"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/violet-twilight-cube-v1/nx.webp",
+      "size": 15802,
+      "sha256": "861b9bfc9cc987a4c41bc1887b0167b5a366195f4ec52cd438226447949906d9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/violet-twilight-cube-v1/ny.webp",
+      "size": 3862,
+      "sha256": "6f8ba6f43d57cc0da6ada6ced14a6dab8074a90c2799b2a7c708ea3274ad26d6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/violet-twilight-cube-v1/nz.webp",
+      "size": 21058,
+      "sha256": "4e53099141b7ecb3013847d63e422c9b5d64f730b61ee3ace79054bcc0089456"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/violet-twilight-cube-v1/px.webp",
+      "size": 18514,
+      "sha256": "1a9afa3a6e6d7720723ee97f255d68c7aba53c367965b4b40981bd269bc1b3b0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/violet-twilight-cube-v1/py.webp",
+      "size": 19684,
+      "sha256": "7abda720f1b524b2c99a9d9f9e96e0915e7e0f058e6c3fdaabef11e1e49c4459"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/skies/violet-twilight-cube-v1/pz.webp",
+      "size": 18436,
+      "sha256": "c2e8581e8051a9ad67b8534d6626ba4ac5284b57f7fcfc1c89703332821d2bec"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/tempest.json",
+      "size": 280,
+      "sha256": "5cf3e8b8cb5c110dc2787dbfea36b49c05e850c63b4914c8d593ff2de1612359"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/arenas/vineyard.json",
+      "size": 284,
+      "sha256": "77d948ebbe9333f112177960a4f713ce54394f272d53cbd281d61f6b707a5340"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/assets/decals/fennec-apex.png",
+      "size": 51874,
+      "sha256": "1a14eac9e5c862cb7d5281cfe8340cae84c10132a7c733763f93616408da72f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ball-preview/balanced.glb",
+      "size": 74160,
+      "sha256": "0452255fccb5e55cd9cdfe27ae4685e3d4d3f19c94861e48589c8be86b23293a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ball-preview/detail.glb",
+      "size": 108236,
+      "sha256": "14ee49ade097a5d09072b4471d118ea3369e8835a32c1e32069459d938c0bb46"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ball-preview/lean.glb",
+      "size": 43308,
+      "sha256": "5b82fb96e61d30ff323e4c6c1b9ac4f63e27135d069779102ce26a741278f44c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ball-preview/swept.glb",
+      "size": 74148,
+      "sha256": "8755e2a183ed0de1e42f602186ed526021adc0f26ca28e2841cd8726e501b7f6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ball-textures/alloy.webp",
+      "size": 24110,
+      "sha256": "09817251a79b282b24666791fa9204520e20f5f5981f339cd2b340b6af04a1f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ball-textures/arctic.webp",
+      "size": 25080,
+      "sha256": "2ee1e7fba35f3cd0538a595fd44628a329d3d0e1f6f1b4ee79f6849bbe6ed650"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ball-textures/ceramic.webp",
+      "size": 22002,
+      "sha256": "e04578a15b5668468a24e5de29a37eaa8888c2bc8b1066cb9d7e42c05ed6203c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/aston-martin.glb",
+      "size": 269124,
+      "sha256": "d252d6bc6de257443e7b1e0b5dab47269e54daa1a742d0ce93135db332e247b1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/breakout.glb",
+      "size": 293860,
+      "sha256": "4d793608958fed83a9c8ed0a403114c1c76b3bd68412bb0a015079ddd00d8fd7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/corsair.glb",
+      "size": 321892,
+      "sha256": "ff9e3aca66f714807683d98302e7605a71a865a06b8cce60fdd77839c0ffb7fa"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/cybertruck.glb",
+      "size": 138344,
+      "sha256": "f84d11c176992628ca06bc20aa5486e2d5818647287cd929e64f3e3119d29d5f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/dominus.glb",
+      "size": 224696,
+      "sha256": "6ba52cd72a3a2678ecfbc95225a39559ccf6a4b6e6b8184fc24f210858087e19"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/fennec-body.glb",
+      "size": 602644,
+      "sha256": "83da816ee1657f5ee80ffce91c3fa1fbd970e48657b5f2eebf83f4adf253ca06"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/lamborghini.glb",
+      "size": 209752,
+      "sha256": "3e850463b84775927e5366e33ec37e5c3a68b4d6bc476b7504aedeb0b1fcdb70"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/mammoth.glb",
+      "size": 286044,
+      "sha256": "fba1a640a11b1296e4d69e75272762be76cb25ef955113d47943c96fcba6a96f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/merc.glb",
+      "size": 255668,
+      "sha256": "24b41febecd5537fcb72befda2690fa0ad31a15f10996d242c5cea2ba45c6819"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/miata.glb",
+      "size": 211956,
+      "sha256": "9b24884d53c115a643dd2d51bebf20e2d7333cb2561edbcfc01ee7b3ea750551"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/octane.glb",
+      "size": 321000,
+      "sha256": "8f5816dad4270a23a5b44d11a3325f4ccb50fabd49ceda6a9370cf8089c65427"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/tempest.glb",
+      "size": 365688,
+      "sha256": "f9d3795b1d0abf65dadfab7991a9a6a5aa11699b76fc478c1345daf2843ca1d1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/cars/viper.glb",
+      "size": 294792,
+      "sha256": "7a7063b0b8ecc2a319305b58d91265c394dd5a08006669ea9204f60806cd6ced"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact/arena-boundary-v2.bin",
+      "size": 1599364,
+      "sha256": "607b5d895f9f8f0ef61df299c2247e71d10b617b3265d59e0ac226357eeb72c9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact/ball-albedo.webp",
+      "size": 13168,
+      "sha256": "b01a50e4bcd3d653db72ab2ce0c69a8b2b084a367700a8e7571f49773fc6f5ec"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact/ball-material-mask.webp",
+      "size": 10424,
+      "sha256": "33d8308d5f98b0b8d93a3a0fbd39526b6e47e5d6df2c31ecf2f21307f35e7078"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact/ball-normal.webp",
+      "size": 6258,
+      "sha256": "68194ed76f4c177816faffdb19ea1911e5e389e563e222f72246b22951730df0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact-audio/arena/boost-pickup.mp3",
+      "size": 4224,
+      "sha256": "30268ec4fdc0e3ace72bd997a675df1679b0d88298be29fb0953a298ce5a3b47"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact-audio/arena/crowd.mp3",
+      "size": 92830,
+      "sha256": "7b88c5aacbe7099cc50f69bc670a3f8ac184205ae6770a2781472ddd63818a99"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact-audio/arena/goal-scored.mp3",
+      "size": 25199,
+      "sha256": "72b8246cb3f30382ffa183679908e021704def9ba5385671735bff0a1a1b6cdc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact-audio/events/chat.mp3",
+      "size": 1511,
+      "sha256": "c60ef4d6f667907fbdf9b81394a52b9b72a4a12d1a072bde0879a2b3b283f0a2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact-audio/events/countdown.mp3",
+      "size": 2032,
+      "sha256": "f4fefa7f202abb3d440b87ca2e4507a4c37436ee4a6298de0f2564c099242c17"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/compact-audio/events/countdown_final.mp3",
+      "size": 2812,
+      "sha256": "8eb92f79b6f0e0146f4a00a5311865ea861a3daf8105aa42cd9c0700ee5b127e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/device-diagnostics.js",
+      "size": 4300,
+      "sha256": "31e04e1b315ee7c23653274bdf93831591662a6946b5299d122b69f235dcc4f6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/effects/goal-sprites-v2.webp",
+      "size": 337860,
+      "sha256": "5746b009b1f9728c5bbff9517bcd256f0062999ac39fa52cc51e236bf5eb722a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/legacy/flat-car/model.glb",
+      "size": 35788,
+      "sha256": "2df270293c258293fa111bdb18f2f486119cd33ff5a664abff5471512193191a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/legacy/realistic-car/details.glb",
+      "size": 17640,
+      "sha256": "42f23c7e42d6525c7604a9ff6b303d49a2d45b1ab685ed70226e181037b0aa6f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/modes/hoops/court.json",
+      "size": 1398078,
+      "sha256": "1f419a1c2e91662b0b073b3939505b7f3e3b7a237092bebffcfb3d83d0849f37"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/adventure.mp3",
+      "size": 4763141,
+      "sha256": "437df826c1ba3c3c994bc132d8a6ef0227490e54c3bd4353c5818b5463de5142"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/blank.mp3",
+      "size": 3345844,
+      "sha256": "ad3bc0e6cda3241faa1e11b190f1c85d618a37cb02ed89e987388455cfd6f463"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/bit-shift.webp",
+      "size": 2594,
+      "sha256": "e3a5668b3ed99eb3304940eae954ab240cc900a5de995c4f23acdd392c509075"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/blip-stream.webp",
+      "size": 3486,
+      "sha256": "70b81207703a1e16618bc33ec3c17f958271f85d444d8989c444e25497539d6e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/blippy-trance.webp",
+      "size": 2702,
+      "sha256": "d613baa8a5ef831c639e27736ced607aeb2802fe5656e2b1e0dc545980d3366f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/cipher.webp",
+      "size": 3140,
+      "sha256": "be16a4b264a9a9d48e2776e32fdcf598f28a3535404cce3fb25c46d4d5005ea2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/club-diver.webp",
+      "size": 2644,
+      "sha256": "e83b4f658eab72f4f5a9628644f5c7dad0c3cbcfac135834594fd351f6b14fb0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/dream-culture.webp",
+      "size": 3064,
+      "sha256": "6f5a0b1d8e9251104013f5174bf2694c1ce9a06350252ca5e22ec1d77b3b146b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/edm-detection-mode.webp",
+      "size": 3254,
+      "sha256": "c1b261eeacb1c0f367ac922bdf997ab7c3c0391f909d11fc7e5c2057d14373c4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/electrodoodle.webp",
+      "size": 3226,
+      "sha256": "899269605b3dff5b3bb75df1119509d0c908207ac5f36a002ca978d34a2d5573"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/exit-the-premises.webp",
+      "size": 3362,
+      "sha256": "46c9721103e405feac755030376e5fe02ee04e40b0a7589e0c80282dd36984f2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/furious-freak.webp",
+      "size": 4734,
+      "sha256": "58b6cf30267db8ffaaad311c0affce9f6c4b42e8e2ebe4323787d093fad17873"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/ice-flow.webp",
+      "size": 5560,
+      "sha256": "7020729f5fb69e5a25724809a401d0570d2537aee1faa8eb048136c884b791d7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/covers/neon-laser-horizon.webp",
+      "size": 2314,
+      "sha256": "498ededfd94f95eb3c1b110b9fd555f645df98aef08cb0b4f0cf07efb4debbad"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/cradles.mp3",
+      "size": 3358385,
+      "sha256": "ce64e1c74b433afe2d71a5f3c85e239c7db6879a8c95cd4344fe2adaa71d3f3a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/dreams.mp3",
+      "size": 3444482,
+      "sha256": "896b6a47fb5db5561ad780707b7d98f8815903bd81b944b46f25c33b131bbc95"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/energy.mp3",
+      "size": 3181172,
+      "sha256": "a347741323bc1cbd51aea5872d7160695785da17f2aba835ae6930d075b60801"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/fearless-pt-ii.mp3",
+      "size": 3108070,
+      "sha256": "f3481369dd9635f26c0ab9357bfdc506e33e8a0a76ea86d0290d9b33592baf16"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/feel-good.mp3",
+      "size": 2912841,
+      "sha256": "fddd7358518b0fc387534fc5c54acb8e62c8ba5590b911a8749472c613b58459"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/heroes-tonight.mp3",
+      "size": 3330412,
+      "sha256": "805a4a53afabe4b7c0901d78a6f09738baa6dc3086b9bf3949127201a409651c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/invincible.mp3",
+      "size": 4370266,
+      "sha256": "104f2f87c6688bf80c5da6473f01dced7ab1edb5476cdd7b217d0c3e175a622f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/invisible.mp3",
+      "size": 3220480,
+      "sha256": "8c4bd25d3c3a5e4cdfe856b84da56e0bb2f434cda6d59f580da1f4af445b0f08"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/link.mp3",
+      "size": 3592021,
+      "sha256": "c0ac4a1dc92bf138a9dd0d9cca4c868beb629ff297887421b05e8070e9ab025c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mortals.mp3",
+      "size": 3654750,
+      "sha256": "b232cbaecb3216914630accd026426211334116fca68638c8a4a7a196600a800"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/adventure.mp3",
+      "size": 236607,
+      "sha256": "58ab19869c31e0b65c327485917c73f769e311aee2726276b7aac7e52a190e1b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/blank.mp3",
+      "size": 236607,
+      "sha256": "a54922af96ac05a9ddb42a3b811b28bae299172febe0f37453eb57731d403734"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/cradles.mp3",
+      "size": 236607,
+      "sha256": "f1962da710f899d2602436828dee5204f359d825ad0b32285b0d00cbaccbe721"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/dreams.mp3",
+      "size": 236607,
+      "sha256": "2edd102d75d56445ce514d3bf6b6880359f7a0e52500d4b15f08e2a59bdb081d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/energy.mp3",
+      "size": 236607,
+      "sha256": "0199721b159e5dfda2938c61f17d275b7f70bebcb2b5c4f715fbd025ee00d702"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/fearless-pt-ii.mp3",
+      "size": 236607,
+      "sha256": "04c685f23ee2c62b10c621cc21585b6fedd2676e029cbade77fecb91129b35a1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/feel-good.mp3",
+      "size": 236607,
+      "sha256": "55d7f6379a58f16a519cb70c4e45c80310f2d5b6b661d04e3a8622dd6e6eaaa1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/heroes-tonight.mp3",
+      "size": 236607,
+      "sha256": "247fdd80df7d17ffe1c9123930dd4e066334dd5958ccf9d2493fb4e7aba08e13"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/invincible.mp3",
+      "size": 236607,
+      "sha256": "0de284bdd21838e9c55561e658c1b26bf9c0ca7da508a3daf2c311e74a994e31"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/invisible.mp3",
+      "size": 236607,
+      "sha256": "f5fce955f8366d6ceadb391f2257eeabc0b10bb43683bf381d19c0f91be185a5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/link.mp3",
+      "size": 236607,
+      "sha256": "e3e63422c67d901233de0915e15aa79acb92edf51cfcf0f25ead0763a71f4d1f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/mortals.mp3",
+      "size": 236607,
+      "sha256": "ab2bd68566213934e7c2c0762d28f21a6be823520c902f611017d0aa6d45c75c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/my-heart.mp3",
+      "size": 236607,
+      "sha256": "bbda32e5a188afa8fd92411cbd4fa34f4a8372fee1b48717aebcc4ac01bb2cd5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/nekozilla.mp3",
+      "size": 236607,
+      "sha256": "ced52f521a93f5dea6abc12f49a6fb9dc14c362d8b087fd4e58362809a8d9569"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/on-and-on.mp3",
+      "size": 236607,
+      "sha256": "c0954258b8169415ec472807cc8de036dcae07cfc9538b3f22cb5008196b7629"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/puzzle.mp3",
+      "size": 236607,
+      "sha256": "66e66b17945b8b389e3492a447b82533ec45d9c1fcfd37f6c2f2c89234d8d5d0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/royalty.mp3",
+      "size": 236607,
+      "sha256": "79d3fc0967c468e63563e3c72e5dd9dd823221ebef4de935010a3df39b1e04fc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/shine.mp3",
+      "size": 236607,
+      "sha256": "cc43e703b51a65788daa398619f0916e2f2edb8c1db641c9f2212568060fb3b1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/sky-high.mp3",
+      "size": 236607,
+      "sha256": "cb80f3ab0f31dae534dba63460012f268a9b77406d6f5a349150fe0c2302b2f0"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/superhero.mp3",
+      "size": 236607,
+      "sha256": "b2233f62130d122e24821cd7906d0673af792c3e56ec6d564146d8307b8a59ad"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/symbolism.mp3",
+      "size": 236607,
+      "sha256": "db27ed78a304367b20c7c6806af982c66fbe3f460c1a4e250a88cc09324edb86"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/mvp/why-we-lose.mp3",
+      "size": 236607,
+      "sha256": "ed31c7313f61a31057e6215a33549fc8d52bddc95192ebc7a5922d9e4def6f2b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/my-heart.mp3",
+      "size": 4274567,
+      "sha256": "cfa29f60aa2bd357061d5897a86537e91fe31729fbf67ba7b6113be650ad82cc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/nekozilla.mp3",
+      "size": 2657058,
+      "sha256": "d421b70481a0d41750413ddc1c33e4baae1916ddc367056401881d9eb4ddf92e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/on-and-on.mp3",
+      "size": 3329166,
+      "sha256": "30634ec88fab208010a199d8e2a748c3afc6cad8080a40587c1a132d30f06c3c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/puzzle.mp3",
+      "size": 2721834,
+      "sha256": "5e854d513e2842930e61adbf97d63d01307852fd323fbe8aeaf7a01f736a7766"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/royalty.mp3",
+      "size": 3578251,
+      "sha256": "45acb3d5bd2cbf091d0469818a0a0ec08701c8519a973a4efaa2dda45443794e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/shine.mp3",
+      "size": 4146235,
+      "sha256": "4293c4a973a3e8f55268fa7dbbbfdad762d2bd8c21755e3908e585066a880f67"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/sky-high.mp3",
+      "size": 3781781,
+      "sha256": "43b64b0a3d7694bedaf794e3d67e4d19d06b604746bd580ba276f04ec1b69e60"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/superhero.mp3",
+      "size": 2868578,
+      "sha256": "de3f9198284bc363ce1a294ceaab2db07034226fe3174abd67b3aac17d215b4c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/symbolism.mp3",
+      "size": 4658662,
+      "sha256": "67bfdb2cc213f36d377821b7d33e80795a5d2ae7c8be0dede8eabc80bc6567eb"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/music/why-we-lose.mp3",
+      "size": 3409841,
+      "sha256": "57f4aec119d1b0e38314f254e97b779681ecf5d4a4872dd1de294bd17922b893"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/partners/play-games-logo.webp",
+      "size": 15144,
+      "sha256": "e2ef8c19341bc3ff20a28a758ae2f16381fe560ce006bb4d378fc57222c11362"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/boot.ogg",
+      "size": 1981,
+      "sha256": "8dfa452289f150ca89fd2637ed59fa63be768f03d15e4a87cf48ebb5751bbbbe"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/boxing-glove.ogg",
+      "size": 2366,
+      "sha256": "a8fea3f3cfd5e71eacaaddeeb9b385b9c323c9b3fb6c735141d0f241e67816d4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/disruptor-loop.ogg",
+      "size": 8457,
+      "sha256": "39408924c1fb1d85f8afb187dbac8b2aeab74ad5b1940aaec4c798991357df6a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/disruptor.ogg",
+      "size": 3361,
+      "sha256": "57cf50d45a3ecd040bc8d98c7b5f99d1233be54eec7b1b2fdc8879312eee0f96"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/freezer.ogg",
+      "size": 3006,
+      "sha256": "15fc3519fa6eedcd4aecdc889e50c6a18b7e709f852f15f604f378d29c2bc6b6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/grappling-hook-loop.ogg",
+      "size": 7430,
+      "sha256": "9d6154acc4c26aac828e957a311f59df7b0941449da13c2d198ee68641c17a30"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/grappling-hook.ogg",
+      "size": 2875,
+      "sha256": "47ee28dcd79a5f6dd9f8097548bb158d0c463e6f674531628f3efb1fdec155ee"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/magnetizer-loop.ogg",
+      "size": 9128,
+      "sha256": "4e3bd165d3641f7e05c65aa36f505de6cd319bf9657913666da8b6e7e865aa5e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/magnetizer.ogg",
+      "size": 3466,
+      "sha256": "182f617bef7074b9cfeff2060d029b9688374f7051683cedb3a309df4733ad89"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/plunger-loop.ogg",
+      "size": 9275,
+      "sha256": "25811d4b4357a340f56a5eb5177acdfe017da4557ef25862980954c9f4ef5276"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/plunger.ogg",
+      "size": 2573,
+      "sha256": "bdcc1e31b51feb2db9d5b76ed4bbf5ee275fa37ee73ebbf34bf9ae76ae29363c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/power-hitter-hit.ogg",
+      "size": 2212,
+      "sha256": "a5e7a88e893db16f0618b445be0779ddc0725e956c07bbc8ef0e3326be8b6702"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/power-hitter.ogg",
+      "size": 3015,
+      "sha256": "8bf7d6a1f1228500e005eacfcf168254e7dc3c58ea3e673afb2085426af13bce"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/spikes-catch.ogg",
+      "size": 1686,
+      "sha256": "c3e89974e8bb2520eeacd962d50667b04881eac1c82ea41b6a7fc441f94d9139"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/spikes.ogg",
+      "size": 2067,
+      "sha256": "40099a668649b1fbaab202396a9e550affcc1cd70e3950bdf33328b48cfa4066"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/swapper-transfer.ogg",
+      "size": 2548,
+      "sha256": "0efd820115cd94eec7588224449bfd70845afbddc5162a48f87da20c69aa5522"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/swapper-windup.ogg",
+      "size": 3076,
+      "sha256": "1abbd880297891f667382711d337fecd6870dcc1401213615c86841040663ac1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/tornado-loop.ogg",
+      "size": 7688,
+      "sha256": "7daf1fccf9d94379d845e90cf9e9bfe1c3cbedf357bfdf63797715a5f49761f7"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/rumble/v1/audio/tornado.ogg",
+      "size": 4039,
+      "sha256": "3f622e263512630ef03b3af1ed1e95b21b8eca9a81b6d3165b7c54c9a8226c0a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/shop/crates/small-purple.webp",
+      "size": 10308,
+      "sha256": "a078d4b803a2696b2fbfc1740b2aab4a8d5dab24c075b0f7d05d10266c2f381c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/training/sky-rings.json",
+      "size": 172749,
+      "sha256": "f9210bb66c2c1e2977b37c7e9702c7f1ab910dfee085748202787f2f30533d6c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/turball-ga4.js",
+      "size": 4817,
+      "sha256": "b8109f81318eb34f93ac75a85153242006469c72760c9014ffa5fdaa60dc3f4d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/turball-telemetry.js",
+      "size": 7893,
+      "sha256": "65cf27a1674178865db5778befd453788984f06da914f69d012ada5900fbb756"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/alien-emoji.webp",
+      "size": 7960,
+      "sha256": "5aa75406e42ae3d00f1c3208840b6a93394237459c40f4d578cd1b0453cc2abc"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/angry-face.webp",
+      "size": 8340,
+      "sha256": "7e2c456c764e09e57f9cab00e6780ac70d54cfd57bacaac4d7ef04276dd183f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/beach.webp",
+      "size": 6722,
+      "sha256": "cc3b55412ff1f5312255d99cc5fc3aa74499fd8ad596def13513b49b6851bc38"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/bubble.webp",
+      "size": 15554,
+      "sha256": "4b7fd453ff68204f34013fee0c95f9c83e0a4fb1681f3c2775613e176c389861"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/clown-emoji.webp",
+      "size": 9278,
+      "sha256": "bb1a92d2131da43e80f3a28dc644c6a8f86c447e5491c51f1d85f5981b5f8246"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/coconut.webp",
+      "size": 11324,
+      "sha256": "4a72f7ae1c6c22da55200ac962bdc69754d9a16797ed65450a115d6669d3e940"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/default.webp",
+      "size": 12020,
+      "sha256": "af9dbe49b936a2177fb4d8a619465085811314615158ead0d87027014526afa6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/disco.webp",
+      "size": 15958,
+      "sha256": "9ed084514aa4093098f1bcc16d86ea567385cfbf16119a0e88b9891ff7c7f66e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/earth.webp",
+      "size": 8514,
+      "sha256": "db516e54cf0950c04ec04f17e515c825ec7fefa56131750d866e8e23292a978b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/eight-ball.webp",
+      "size": 7840,
+      "sha256": "cc44f7b31382a78857dde2ba4dee5cb522d6901d70beade42b906a800812fa1b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/evil-emoji.webp",
+      "size": 8952,
+      "sha256": "26dd7fbdfe2130385912f77af970c7f9adc47aca9b7ba8311093b6874fef5c32"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/eye.webp",
+      "size": 9576,
+      "sha256": "ddee59a2505382b64a937b1dbc4d7851b61a6f63e42aa09a0af809f5087a40f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/football.webp",
+      "size": 8090,
+      "sha256": "8b0f801a3a865b5a8a9fbafca206534b64ac48480e88be7afda6cd1203d97851"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/freezing-emoji.webp",
+      "size": 8624,
+      "sha256": "831b5befbd1e9bdba460f7c8d5e761fe17afdf1960cee02b65bd6f4263d3c199"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/golf-ball.webp",
+      "size": 5992,
+      "sha256": "6d173ac1bcbec6ccb5a6964c7d2c806865557e14be2e0cec7d635d14d8a84462"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/joy-emoji.webp",
+      "size": 9312,
+      "sha256": "2fbeb8445c4305801032a5b05b54f877730076bcebb5ab61e53a111fc81ffddd"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/jupiter.webp",
+      "size": 10216,
+      "sha256": "b9c9655af552bdf4afe37ac6d3d7812048d98a6f50fc4da98289443922b6ba9a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/moon.webp",
+      "size": 7148,
+      "sha256": "2e511758d14682475366bbe87e6f143e34b6641dbf14f91c3edc36320343c77b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/orange.webp",
+      "size": 9596,
+      "sha256": "7965cc158b8b3cee150f176f0ecf62a5e713593e53b83c26e76f2d98c3cb9b36"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/pearl.webp",
+      "size": 6194,
+      "sha256": "e84255eb2cc094c2e18b0b77d4c90c9e65236da72c804ae1f96822b601325676"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/poop-emoji.webp",
+      "size": 10162,
+      "sha256": "e50b9dc19a6e2a8d868319be64d25a23171df66060150c515354f3f1fad9f0b1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/skull-emoji.webp",
+      "size": 7748,
+      "sha256": "68b4aac727a5919a561a149bf4bb55ca6d3f3a64a0047c90ca8b42091e7ae119"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/sun.webp",
+      "size": 9964,
+      "sha256": "26ffbc7a66978a2c95f54e506e58760a6fd2d32f77228295dfab42be0af98fe9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/tennis.webp",
+      "size": 6550,
+      "sha256": "955249be323f66165ae006d9d1d7fed121cf5db0c1f461c3b85432cc6c6d7829"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/tomato.webp",
+      "size": 7974,
+      "sha256": "a85e93773a60fa3e424ea8751ff320c8753122783808189fa5868085e3a42302"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/balls/watermelon.webp",
+      "size": 10544,
+      "sha256": "9a25b142de049fe8476ee554f8efd4d4014315aca5f4a9a669c32459aefb0f9c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/cybertruck.webp",
+      "size": 12450,
+      "sha256": "ad2f4ad6ce0352c691a0f4ca9581e2c27c7c67bf1bc47c4c996f72fda1fcd7d4"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/fennec-apex.webp",
+      "size": 29520,
+      "sha256": "e708c80e01e45815841c0e09b0ff6f9b9e30467a60f7f48b7eb1cb1f6959271f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-aero.webp",
+      "size": 12272,
+      "sha256": "92994695fc3cb7ba0e072295b09b180c91a2eb5f446f8ac5e8e9a1a0621a0be6"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-beadlock.webp",
+      "size": 12290,
+      "sha256": "98f1e18c667c210a4a73d1c0f6879f1fa66e2df5e6a44832f053fd0ca342a726"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-disc.webp",
+      "size": 10718,
+      "sha256": "66f1cd81065e7e49dd13b3f8882214a1d10d5bc55cc318d69444209e2ceead79"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-forged.webp",
+      "size": 14086,
+      "sha256": "40d7c8ff2a4125f7ceda1cc4cf6ab089281b8aa8fdb7cfe9da49a31a5d5094cf"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-helix.webp",
+      "size": 11860,
+      "sha256": "26839470823a136dddd90f45030109eaa1b80b0f721700263f63fa025a7d3cde"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-hex.webp",
+      "size": 14250,
+      "sha256": "523f3574977e617e415387e7bcffd12fcc26bbbce8911112ced3c59b8eeb6952"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-mesh.webp",
+      "size": 14514,
+      "sha256": "b3f939cda22ddd8d93618c0015e739f0a7aec1f0991f8e6a9894820f992bb765"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-oem.webp",
+      "size": 11754,
+      "sha256": "6619530e4d986379875ffe481656df6cb3ddb04ab31b077fd270515bf9cfe311"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-orbital.webp",
+      "size": 12650,
+      "sha256": "f5d987834fbe058a406d0146f3c0c1611c65b3687928b85c485035b1cf3f1e6c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-rally.webp",
+      "size": 12710,
+      "sha256": "ce7533ccee71316be408e7a68362b6105091e98259ad838115c78967191575fa"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-razor.webp",
+      "size": 10588,
+      "sha256": "fe7aea12c922fa40fe49c1fcc6d5a7fa38eb4abc12e9c68ed2708f18f7eef104"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-retro.webp",
+      "size": 12870,
+      "sha256": "112e8a9c53276b1ee58c9b9330c32f0132e7d6a24594081b65c12ef540ac768f"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-split.webp",
+      "size": 12504,
+      "sha256": "39b4942ff0ba787bdff4fdefee9170bf2d4f0489a8dbc98fe7ff24bf0884259c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-star.webp",
+      "size": 11648,
+      "sha256": "b9538ec07b9d4854febd0aa4da06b38550e91285d4caf0991d3c2748e156bcc2"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-turbine-pro.webp",
+      "size": 12708,
+      "sha256": "980f55a170c354ca99342c9b512c6390e763f465bdc4beeedcba66f8bb53de00"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-turbine.webp",
+      "size": 12950,
+      "sha256": "b823f761a56d7dfc0e2e6fb5028bb930c5b91cd61e7819afa277402750dfe333"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/cars/wheel-vector.webp",
+      "size": 13684,
+      "sha256": "25b8a7d27aaa546f1a3a6ea60ce0137c630aa6c11a9ae092b581029bf064d5f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/arena-champions.avif",
+      "size": 16486,
+      "sha256": "8817d280563c352b1003b55a3cf5f01f645bf0c806193c0ad4569860dd25e111"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/mode-doubles-small.avif",
+      "size": 5810,
+      "sha256": "f2da937f103a923fa88271972d0541a302d44a65afcbc634f6caa870135d6557"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/mode-duel-small.avif",
+      "size": 5167,
+      "sha256": "80434970855a6786a9e4389e6dc9273c9a92170e525b63be4bf8bb2428bd47ff"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/mode-extra-modes-small.avif",
+      "size": 11266,
+      "sha256": "49dd4c55536882bd1c5fcf385ef692c8d3e370e9a9ffcae07218e4578a5d4628"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/mode-hoops-small.avif",
+      "size": 5107,
+      "sha256": "3deb4f11908e90b355772c554fc604ae0c62203fe2db7e9bbf26bcf41efefaba"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/mode-rumble-small.avif",
+      "size": 5766,
+      "sha256": "c09df1d3cc5bbb28fb15ce2c81e38ab561d0bdb8c78ad46021fa6f7ced27b72a"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/mode-snow-small.avif",
+      "size": 5644,
+      "sha256": "4fdb56b93a6dbd289c16d6c95f76c32e3fac422c98f9db3fc527a53cecc6a0ce"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/mode-standard-small.avif",
+      "size": 6353,
+      "sha256": "882d5bc9b42966ec2ad918ba0613391c6e2ff08aece39b548138c0f402773573"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/tile-casual-small.avif",
+      "size": 4078,
+      "sha256": "8e8f38efab9b7d0bdd84353500248e931f399997fbc61971a7f064b1b20c1a01"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/tile-competitive-small.avif",
+      "size": 4827,
+      "sha256": "63e4b672957b0cca427ac2919df7c6c54cb8d30843b7c81b5ea9103624e321d5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/tile-private-small.avif",
+      "size": 3886,
+      "sha256": "8ef3a8ba5150d09df86bdcf6ca7b0aab40f0617b8090b98071597effceae513e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/tile-tournaments-small.avif",
+      "size": 4478,
+      "sha256": "304ce4980cd0615593491af89a3e1590f49f9ee0a68094683d6ccfb6f385f42c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/tile-training-small.avif",
+      "size": 3999,
+      "sha256": "816deaead272fa428f07ad8878755195f7c087e59da5d0fadaf7d2a19020f03c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/training-aerial-small.avif",
+      "size": 4672,
+      "sha256": "8bd4646c6669eec0a471f81f4b3864a4614af132531e7d1ff00ecce31bae5f42"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/training-custom-small.avif",
+      "size": 5623,
+      "sha256": "dbc4293773f3871839a992ae5075900c641d47088931cf1b8ead51549e3322c9"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/training-freeplay-small.avif",
+      "size": 5410,
+      "sha256": "6845f940fc176a25e29c78c0ce9a6176181900710bcf98b5174050f2bb282d1d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/training-goalkeeper-small.avif",
+      "size": 5312,
+      "sha256": "3719122386fea9dcc993ab550d4f3714dd827eb4ed3665603bc953dcd7bffa86"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/training-striker-small.avif",
+      "size": 5232,
+      "sha256": "047e7746c27e90bcd35a6e19f2128a4a3d2c0758c0d05ee6ed8bf9ec616b5098"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/menu/training-tutorial-small.avif",
+      "size": 6178,
+      "sha256": "045a9814455d003d21e5fce72f7598d7d3ed73739d6f91ecaa135805b192cb51"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/news/season.webp",
+      "size": 78564,
+      "sha256": "5270c08da84af1e9c706e30119d17f23d9555e4fc2fa7475447dd1ef41d89dde"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/promotions/carmania-portrait.png",
+      "size": 2359347,
+      "sha256": "cdca37d9103e41e3980c475429ecc6d9c8ebf19740c27cabcf01463d29283eea"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/promotions/copchase-300x250.png",
+      "size": 434125,
+      "sha256": "fae599b8c9a0000c9f1666ac3f358759386fa9e09977f668c17d78a3f1892293"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/promotions/copchase-wide.png",
+      "size": 387741,
+      "sha256": "59577d43dec959035ec837072aab50fe372ae923fa5d22d2ba79bf8d2ca901f5"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/assets/reference/news.webp",
+      "size": 188708,
+      "sha256": "0f15faec41be755396fe5ad13fb7ec2bf2b284f10a6b231327120de5e17e781b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/credits.svg",
+      "size": 2414,
+      "sha256": "2757d31413a09d5783a0362a7ad4248b1dc936d1bb0f746b583360fe7a9bb357"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/match-badges.webp",
+      "size": 57542,
+      "sha256": "bf349b4f4622954b498eeec3907467b49d9deff9bedff4ee320dd9221ebe7533"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/pedals.png",
+      "size": 11652,
+      "sha256": "3468a55f89a98f24102a225a2e2dfdffa960ca164b50fc81dd238613a5fd5fca"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/rotate-landscape.png",
+      "size": 2626,
+      "sha256": "a013344f9e03c807c456a915ac44c914e0df83992ee7ee0c67b21a661b24a31d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui/spinner.webp",
+      "size": 1198,
+      "sha256": "8f89511d5ecac9a70862f70a05fbbbcec4b88a6355faa80364eb6db586872a45"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/ui-fonts/Montserrat-Black.woff2",
+      "size": 126216,
+      "sha256": "2d54693cc31b0f25e6c7fe78254b0d79437d6df5d312829fa707977c38271e9d"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/aero.glb",
+      "size": 206256,
+      "sha256": "27dbb617fef3a7b17a0dcb729fe249c33dc4d5635727dedb618f83d6aca5a0ef"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/beadlock.glb",
+      "size": 273920,
+      "sha256": "cdb42ee63b06177561d9a74d61739f1da7d4053fa02cef955aef05cd5ba9e50e"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/disc.glb",
+      "size": 219724,
+      "sha256": "0d05bdc744118dc0ed16b08ea15af5d33e55d82d93d5d43069368be788aed967"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/forged.glb",
+      "size": 221708,
+      "sha256": "c75724e1ce07be5f2193f9764f73e861e2b5bd24f39611e011c8836691cefc94"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/helix.glb",
+      "size": 187872,
+      "sha256": "105c2be0b47e6ccb56e1fbf03b7c69d7ffca2762f3294d27ce888ac03ddcddf1"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/hex.glb",
+      "size": 207612,
+      "sha256": "91a6b34e538fc5467676c8688e3a09d2c2fa4aef6645d93487ea04cd228e7d64"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/mesh.glb",
+      "size": 228476,
+      "sha256": "7f94aae9343df7c2cf8d4f14856bc109b088560687b7fde8e62bc1271185a55b"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/oem.glb",
+      "size": 185612,
+      "sha256": "b7df3ffd70c91090cefaf5e55b3528d279c92bf824a9e0a272c805c466ab0298"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/orbital.glb",
+      "size": 226496,
+      "sha256": "639063eb1604e628bd890d411f4a3141a28ec2e5a6a7719f4ce62c030ac655e8"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/rally.glb",
+      "size": 201404,
+      "sha256": "2f5aa9f106a016e53536dac1e4755008f6551b39687ac4b699a0c9af3ea37556"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/razor.glb",
+      "size": 181100,
+      "sha256": "671ce52bf4ef185f0b76d573668ea719c8de6155a63629c9c2125cd970805096"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/retro.glb",
+      "size": 192380,
+      "sha256": "743315bbfd022be2161420c8b42cf948479c2e37323d29ce82d1740ceb22cdbe"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/split.glb",
+      "size": 208172,
+      "sha256": "5c7a4ac4a7101c463ef8476f22515a63c55fb28020199bcea3caaee1dfad31fe"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/star.glb",
+      "size": 185612,
+      "sha256": "75683a9514f86a7495871c25366809720d3fb60fc3531aa6eb1c9167110f2911"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/turbine-pro.glb",
+      "size": 201412,
+      "sha256": "1f76deb71de6766ce646f98ac160bb66ff67a22169d179d5defae22adc658c8c"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/turbine.glb",
+      "size": 196896,
+      "sha256": "2b9dbe5e60df64c3b9bf72c47624ac19711b06eb7fcc8aa4a17f00830f15b1bf"
+    },
+    {
+      "path": "turball_extracted/assets/releases/c9f289f8703c-41278748786-1/wheels/vector.glb",
+      "size": 196896,
+      "sha256": "caab3a112bc62c4d6728969e0566ed406ae85d36d6f0afa5a2972ef3d64b7451"
+    },
+    {
+      "path": "turball_extracted/assets/social/turball-thumbnail.webp",
+      "size": 286168,
+      "sha256": "3a8cc75382251653ef7a2a39a0d7ce51b11a11be7f158ef283bf6ff767822946"
+    },
+    {
+      "path": "turball_extracted/controls-and-camera.html",
+      "size": 8288,
+      "sha256": "9823f55fcf5a1d1d504fdcc262b5cf9ceaffdb5bb8e768eeda2d04893fec4920"
+    },
+    {
+      "path": "turball_extracted/controls-and-camera.html?cg=true.html",
+      "size": 8288,
+      "sha256": "9823f55fcf5a1d1d504fdcc262b5cf9ceaffdb5bb8e768eeda2d04893fec4920"
+    },
+    {
+      "path": "turball_extracted/favicon-16x16.png",
+      "size": 908,
+      "sha256": "9c0151677218a425b45a4b7858b3efa9840c839a277c7dbef9e938b0a0262545"
+    },
+    {
+      "path": "turball_extracted/favicon-16x16.png?v=58788b5eef53",
+      "size": 908,
+      "sha256": "9c0151677218a425b45a4b7858b3efa9840c839a277c7dbef9e938b0a0262545"
+    },
+    {
+      "path": "turball_extracted/favicon-16x16_mu8dmi.png",
+      "size": 908,
+      "sha256": "9c0151677218a425b45a4b7858b3efa9840c839a277c7dbef9e938b0a0262545"
+    },
+    {
+      "path": "turball_extracted/favicon-32x32.png",
+      "size": 2511,
+      "sha256": "c2ccff09fe04abd2fb15a5a6f2326812086b5011d224939db1174da1656da82a"
+    },
+    {
+      "path": "turball_extracted/favicon-32x32.png?v=58788b5eef53",
+      "size": 2511,
+      "sha256": "c2ccff09fe04abd2fb15a5a6f2326812086b5011d224939db1174da1656da82a"
+    },
+    {
+      "path": "turball_extracted/favicon-32x32_mu8dmi.png",
+      "size": 2511,
+      "sha256": "c2ccff09fe04abd2fb15a5a6f2326812086b5011d224939db1174da1656da82a"
+    },
+    {
+      "path": "turball_extracted/favicon.ico",
+      "size": 15406,
+      "sha256": "58788b5eef532d0fa4297e60ce651af34bb0a1cc38024a44a0b1a96bc2919e4f"
+    },
+    {
+      "path": "turball_extracted/favicon.ico?v=58788b5eef53",
+      "size": 15406,
+      "sha256": "58788b5eef532d0fa4297e60ce651af34bb0a1cc38024a44a0b1a96bc2919e4f"
+    },
+    {
+      "path": "turball_extracted/favicon_mu8dmi.ico",
+      "size": 15406,
+      "sha256": "58788b5eef532d0fa4297e60ce651af34bb0a1cc38024a44a0b1a96bc2919e4f"
+    },
+    {
+      "path": "turball_extracted/garage/index.html",
+      "size": 5840,
+      "sha256": "787a8178ffd819fea1f342a9fc5cda385edeb1ea2b3f63eb9d8ccaa16dad1ca2"
+    },
+    {
+      "path": "turball_extracted/garage-and-rewards.html",
+      "size": 8261,
+      "sha256": "e5d85bfd83eb6e3bab9f4186ab662ec1be09d29565b2ec6de6a3425232d9dab0"
+    },
+    {
+      "path": "turball_extracted/garage-and-rewards.html?cg=true.html",
+      "size": 8261,
+      "sha256": "e5d85bfd83eb6e3bab9f4186ab662ec1be09d29565b2ec6de6a3425232d9dab0"
+    },
+    {
+      "path": "turball_extracted/garage.html",
+      "size": 5886,
+      "sha256": "e0ac661ba586f35725291a1c2b2401b9da899c9976ad6fbd83f95ac2791ab30e"
+    },
+    {
+      "path": "turball_extracted/how-to-play.html",
+      "size": 9248,
+      "sha256": "e2f25e9ade6f677db2bbd25bdf3c7646824174c09e1d283be2b9d5e9e10297e3"
+    },
+    {
+      "path": "turball_extracted/how-to-play.html?cg=true.html",
+      "size": 9248,
+      "sha256": "e2f25e9ade6f677db2bbd25bdf3c7646824174c09e1d283be2b9d5e9e10297e3"
+    },
+    {
+      "path": "turball_extracted/index.html",
+      "size": 6069,
+      "sha256": "0774f65aa9adcfcf2c40098c2b39ef910cc8869bfc65fbfa26d4a3bdab904436"
+    },
+    {
+      "path": "turball_extracted/performance-guide.html",
+      "size": 8434,
+      "sha256": "e8c56f90c8961aeec8f15d30022e3c6e03d00540e4c423ee0318ed7c71b96fd3"
+    },
+    {
+      "path": "turball_extracted/performance-guide.html?cg=true.html",
+      "size": 8434,
+      "sha256": "e8c56f90c8961aeec8f15d30022e3c6e03d00540e4c423ee0318ed7c71b96fd3"
+    },
+    {
+      "path": "turball_extracted/robots.txt",
+      "size": 2739,
+      "sha256": "59b7f3cf5a1209dfaf8630aba8e511e3d470329dcaf5de9ed6e0c15268f6e93a"
+    },
+    {
+      "path": "turball_extracted/rocket-pass/index.html",
+      "size": 5750,
+      "sha256": "14262b7d53246718c5f604352982dd1056d87d490b162448f66d3df0e9ec4ea2"
+    },
+    {
+      "path": "turball_extracted/rocket-pass/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/rocket-pass.html",
+      "size": 5806,
+      "sha256": "3f9d2ba94329e8f45dcc00ef9b2108d4509837d8e794054aef5d339b5f820588"
+    },
+    {
+      "path": "turball_extracted/settings.html",
+      "size": 6128,
+      "sha256": "7b50547a2936dfd16ff06e5d75f46b1b7367e24f09e6051aaf70afcc50b86189"
+    },
+    {
+      "path": "turball_extracted/shop/index.html",
+      "size": 5814,
+      "sha256": "24f2539d0bc9bd315c167aa338e588ed75fd44bfdff73417644b1ca334e793a6"
+    },
+    {
+      "path": "turball_extracted/shop/s",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "turball_extracted/shop.html",
+      "size": 5856,
+      "sha256": "355822d380b534ef2065e92d0335d45bfaa92fc1345ba01586050c1eebcc4835"
+    },
+    {
+      "path": "turball_extracted/site.webmanifest",
+      "size": 424,
+      "sha256": "dd2c7b43fa79fad0c138d43cde8e789433824b3529f814eb9c4e655485e4e676"
+    },
+    {
+      "path": "turball_extracted/site.webmanifest?v=58788b5eef53",
+      "size": 424,
+      "sha256": "dd2c7b43fa79fad0c138d43cde8e789433824b3529f814eb9c4e655485e4e676"
+    },
+    {
+      "path": "turball_extracted/site_mu8dmi.webmanifest",
+      "size": 424,
+      "sha256": "dd2c7b43fa79fad0c138d43cde8e789433824b3529f814eb9c4e655485e4e676"
+    },
+    {
+      "path": "turball_extracted/start-offline.sh",
+      "size": 107,
+      "sha256": "e0aad1220cf198e73882d19704f729913b872309deed0c673ca3e773e173a5f8"
+    },
+    {
+      "path": "turball_extracted/training-guide.html",
+      "size": 8498,
+      "sha256": "7779e5e01fab434996f0d42d492f31b0424e2eec65a3f5e8c88e905b8b84e97f"
+    },
+    {
+      "path": "turball_extracted/training-guide.html?cg=true.html",
+      "size": 8498,
+      "sha256": "7779e5e01fab434996f0d42d492f31b0424e2eec65a3f5e8c88e905b8b84e97f"
+    }
+  ]
+}

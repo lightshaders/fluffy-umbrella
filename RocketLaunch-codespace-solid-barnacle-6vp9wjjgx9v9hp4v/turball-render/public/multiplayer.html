@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Turball Multiplayer</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #051827;
+        --panel: #0c2236;
+        --line: #2f7999;
+        --blue: #67b6ff;
+        --orange: #ff9a47;
+        --text: #ebf9ff;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: radial-gradient(circle at top, #123d5f, var(--bg) 48%);
+        color: var(--text);
+        font-family: Arial, sans-serif;
+      }
+      .panel {
+        width: min(720px, 92vw);
+        background: rgba(12, 34, 54, 0.95);
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        padding: 24px;
+        box-shadow: 0 18px 52px rgba(0,0,0,0.35);
+      }
+      h1 { margin-top: 0; }
+      .row { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 12px; }
+      input, button {
+        border-radius: 12px;
+        border: 1px solid var(--line);
+        padding: 12px 14px;
+        font-size: 1rem;
+      }
+      input {
+        background: rgba(255,255,255,0.04);
+        color: var(--text);
+        min-width: 180px;
+      }
+      button {
+        background: linear-gradient(135deg, var(--blue), #4d7cff);
+        color: white;
+        border: none;
+        cursor: pointer;
+        font-weight: 700;
+      }
+      button.secondary {
+        background: linear-gradient(135deg, var(--orange), #ff7a59);
+      }
+      .code {
+        letter-spacing: 0.25rem;
+        display: inline-block;
+        padding: 8px 12px;
+        border-radius: 8px;
+        border: 1px solid var(--line);
+        background: rgba(0,0,0,0.15);
+        min-width: 132px;
+        text-align: center;
+      }
+      #log {
+        margin-top: 20px;
+        background: rgba(0,0,0,0.18);
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 12px;
+        padding: 12px 14px;
+        min-height: 120px;
+        line-height: 1.5;
+      }
+      #players { margin-top: 18px; }
+      .player-list {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+      .pill {
+        padding: 8px 10px;
+        border-radius: 999px;
+        border: 1px solid rgba(255,255,255,0.12);
+        background: rgba(255,255,255,0.04);
+      }
+      .pill.orange { border-color: rgba(255,154,71,0.7); }
+      .pill.blue { border-color: rgba(103,182,255,0.7); }
+    </style>
+  </head>
+  <body>
+    <div class="panel">
+      <h1>Turball Multiplayer</h1>
+      <div class="row">
+        <input id="name" value="Driver" maxlength="24" />
+        <button id="create-room">Create room</button>
+        <button id="join-room" class="secondary">Join room</button>
+      </div>
+      <div class="row">
+        <label>Room code</label>
+        <span id="room-code" class="code">—</span>
+      </div>
+      <div id="players">
+        <div class="player-list" id="player-list"></div>
+      </div>
+      <div id="log"></div>
+    </div>
+
+    <script src="/multiplayer.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+async function o(e,t={},r=3e4){if(t.signal)return fetch(e,t);if(typeof globalThis.AbortSignal?.timeout==="function")return fetch(e,{...t,signal:AbortSignal.timeout(r)});const i=new AbortController;const n=setTimeout(()=>i.abort(new DOMException("Request timed out.","TimeoutError")),r);try{return await fetch(e,{...t,signal:i.signal})}finally{clearTimeout(n)}}export{o as a};

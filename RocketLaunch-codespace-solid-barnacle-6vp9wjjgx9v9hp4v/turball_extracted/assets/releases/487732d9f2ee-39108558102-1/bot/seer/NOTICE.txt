@@ -1,0 +1,14 @@
+Seer v0 by Neville Walo, distributed in the RLBot community botpack.
+Source: https://github.com/RLBot/RLBotPack/tree/0033a98d4e060670f334f60f7f8dc5ee21ba93bb/RLBotPack/Seer
+Pinned revision: 0033a98d4e060670f334f60f7f8dc5ee21ba93bb
+The botpack's MIT license is included in LICENSE.txt.
+
+Adaptation for this game: PyTorch-to-ONNX actor-only export, explicit recurrent state,
+TypeScript observations and action decoding, RocketSim-to-RLBot coordinate and
+boost-timer conversion, and browser worker inference. Original trained weights,
+feature scaling, action masks and deterministic categorical decisions are preserved.
+Seer v0 is the public historical 1v1 model, not a later tournament Seer.
+The in-game Platinum label is an approximate difficulty target, not a certified rank.
+
+Reproduce: python tools/export-seer.py
+Independent observation/sequence fixtures: python tools/verify-seer.py

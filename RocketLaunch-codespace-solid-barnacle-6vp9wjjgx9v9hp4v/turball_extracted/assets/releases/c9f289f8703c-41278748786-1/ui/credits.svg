@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <title>Turball credits</title>
+  <defs>
+    <linearGradient id="metal" x1="180" y1="62" x2="316" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/><stop offset=".23" stop-color="#EDFFFF"/><stop offset=".40" stop-color="#5EF6FF"/><stop offset=".63" stop-color="#079EEA"/><stop offset=".80" stop-color="#2488FF"/><stop offset="1" stop-color="#CBFAFF"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="90" y1="65" x2="392" y2="438" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCFFFF"/><stop offset=".4" stop-color="#78FBFF"/><stop offset=".72" stop-color="#0052C8"/><stop offset="1" stop-color="#80F3FF"/>
+    </linearGradient>
+    <linearGradient id="letter" x1="241" y1="150" x2="241" y2="366" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF"/><stop offset=".23" stop-color="#BCFFFF"/><stop offset=".46" stop-color="#29E8FF"/><stop offset=".82" stop-color="#0490E8"/><stop offset="1" stop-color="#58DDFF"/>
+    </linearGradient>
+  </defs>
+  <!-- True hexagonal rim; the center and surrounding canvas stay transparent. -->
+  <path fill-rule="evenodd" d="M145 63H367L478 256 367 449H145L34 256ZM162 93 68 256 162 419H350L444 256 350 93Z" fill="#004DAC" transform="translate(0 7)"/>
+  <path fill-rule="evenodd" d="M145 63H367L478 256 367 449H145L34 256ZM162 93 68 256 162 419H350L444 256 350 93Z" fill="url(#metal)"/>
+  <path d="M145 63H367L478 256 367 449H145L34 256Z" stroke="url(#edge)" stroke-width="3"/>
+  <path d="M162 93H350L444 256 350 419H162L68 256Z" stroke="url(#edge)" stroke-width="3"/>
+  <!-- Symmetric T on the hexagon's x=256 axis, with continuous inset bevels. -->
+  <path d="M162 161H350L358 169V211L350 219H290V359L282 367H230L222 359V219H162L154 211V169Z" fill="#005DAF" transform="translate(0 5)"/>
+  <path d="M162 161H350L358 169V211L350 219H290V359L282 367H230L222 359V219H162L154 211V169Z" fill="url(#edge)"/>
+  <path d="M165 169H347L350 172V208L347 211H282V356L279 359H233L230 356V211H165L162 208V172Z" fill="url(#letter)"/>
+  <path d="M162 161H350L347 169H165L162 172 154 169Z" fill="#FFFFFF"/>
+  <path d="M165 211H230L222 219H162L154 211 162 208Z" fill="#047FCC"/>
+  <path d="M282 211H347L350 208 358 211 350 219H290Z" fill="#047FCC"/>
+  <path d="M230 356 233 359H279L282 356 290 359 282 367H230L222 359Z" fill="#84F1FF"/>
+</svg>

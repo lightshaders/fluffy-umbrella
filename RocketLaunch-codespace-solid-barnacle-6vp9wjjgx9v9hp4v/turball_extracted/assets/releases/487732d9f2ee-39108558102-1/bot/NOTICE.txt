@@ -1,0 +1,4 @@
+Nexto by the Necto contributors (Rolv-Arild/Necto).
+Source: https://github.com/Rolv-Arild/Necto/tree/2e6ed7d6ed2b352e8ff529d4a12a0c9c70c28cca/rlbot-support/Nexto
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International; see LICENSE.txt.
+Changes: TorchScript checkpoint converted to ONNX for browser inference. Conversion metadata, source checkpoint and hashes are retained in metadata.json.

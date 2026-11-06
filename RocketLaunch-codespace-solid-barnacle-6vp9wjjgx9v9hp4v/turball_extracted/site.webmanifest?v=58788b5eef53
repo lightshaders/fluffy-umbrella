@@ -1,0 +1,20 @@
+{
+  "name": "Turball",
+  "short_name": "Turball",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png?v=58788b5eef53",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png?v=58788b5eef53",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#081c2b",
+  "background_color": "#081c2b",
+  "display": "standalone",
+  "start_url": "/"
+}

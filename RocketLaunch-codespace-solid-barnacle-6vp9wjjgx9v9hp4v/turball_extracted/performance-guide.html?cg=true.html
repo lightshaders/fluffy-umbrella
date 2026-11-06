@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Smoother Gameplay &amp; Performance Guide · Turball</title><meta name="description" content="Choose graphics quality and a frame rate limit, read the status overlay, and narrow down stutters during a match.">
+<link rel="canonical" href="performance-guide.html"><meta name="robots" content="index,follow"><meta name="googlebot" content="max-image-preview:large"><meta property="og:type" content="website"><meta property="og:site_name" content="Turball"><meta property="og:locale" content="en_US"><meta property="og:title" content="Smoother Gameplay &amp; Performance Guide · Turball"><meta property="og:description" content="Choose graphics quality and a frame rate limit, read the status overlay, and narrow down stutters during a match."><meta property="og:url" content="https://turball.io/performance-guide.html"><meta property="og:image" content="https://turball.io/assets/social/turball-thumbnail.webp"><meta property="og:image:secure_url" content="https://turball.io/assets/social/turball-thumbnail.webp"><meta property="og:image:type" content="image/webp"><meta property="og:image:width" content="1920"><meta property="og:image:height" content="1080"><meta property="og:image:alt" content="Turball game"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Smoother Gameplay &amp; Performance Guide · Turball"><meta name="twitter:description" content="Choose graphics quality and a frame rate limit, read the status overlay, and narrow down stutters during a match."><meta name="twitter:image" content="https://turball.io/assets/social/turball-thumbnail.webp"><meta name="twitter:image:alt" content="Turball game"><script id="game-structured-data" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://turball.io/#website","url":"https://turball.io/","name":"Turball"},{"@type":"VideoGame","@id":"https://turball.io/#game","name":"Turball","url":"https://turball.io/","image":"https://turball.io/assets/social/turball-thumbnail.webp","description":"Play Turball in your browser. Drive, boost and score against bots, practice in free play, and customize your car. No game download needed.","genre":["Sports","Racing"],"gamePlatform":"Web browser","applicationCategory":"Game","operatingSystem":"Web browser","inLanguage":"en"},{"@type":"WebPage","@id":"https://turball.io/performance-guide.html#webpage","url":"https://turball.io/performance-guide.html","name":"Smoother Gameplay & Performance Guide · Turball","description":"Choose graphics quality and a frame rate limit, read the status overlay, and narrow down stutters during a match.","isPartOf":{"@id":"https://turball.io/#website"},"about":{"@id":"https://turball.io/#game"}}]}</script><link rel="icon" href="favicon.ico">
+<script>if(new URLSearchParams(location.search).getAll('cg').includes('true'))document.documentElement.classList.add('crazygames-guide');</script>
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#081c2b;color:#e9f1f8}
+body{margin:0}main,header,footer{max-width:850px;margin:auto;padding:24px}
+header{display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid #365165}
+a{color:#8cd8ff;text-underline-offset:4px}a:focus-visible{outline:3px solid #ffc64b;outline-offset:5px}
+.brand{font-weight:900;letter-spacing:.12em;color:white;text-decoration:none}
+h1{font-size:clamp(2rem,6vw,3.5rem);line-height:1.1;margin:24px 0}h2{margin-top:40px;color:#ffc64b}
+p,li{line-height:1.75}li{margin-bottom:12px}.intro{font-size:1.2rem;color:#c7d8e6}
+.play{display:inline-block;padding:12px 20px;border-radius:8px;background:#ffc64b;color:#081c2b;font-weight:800;text-decoration:none}
+table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:12px 8px;border-bottom:1px solid #365165}th{color:#a8bfd1}
+nav{display:flex;flex-wrap:wrap;gap:12px 24px}footer{border-top:1px solid #365165;margin-top:32px}
+.guide-reading-nav,.guide-portal-return{display:none}
+.crazygames-guide :is(.play,.site-links,.guide-return){display:none}
+.crazygames-guide a[href^="/"]:not([href$="?cg=true"]){pointer-events:none;color:inherit;text-decoration:none}
+.crazygames-guide .guide-reading-nav{display:flex}.crazygames-guide .guide-portal-return{display:block}
+</style></head><body><header><a class="brand" href="index.html">TURBALL</a><a class="play" href="index.html">Play now</a></header>
+<main><p>THE TURBALL PERFORMANCE GUIDE</p><h1>Smoother gameplay</h1>
+<p class="intro">Aim for a steady frame rate your device can maintain. A consistent match is easier to control than a higher frame rate interrupted by frequent stutters.</p>
+<h2>Pick a comfortable graphics preset</h2>
+<p>Open <a href="settings.html">Settings</a> → Graphics. Presets run from Very Low through Low, Medium, High and Ultra. They change rendering resolution and visual effects, not the match's physics. If play feels uneven, lower the preset one step and test in the same arena.</p>
+<p>On a fresh setup, automatic quality evaluates roughly the first 50 seconds of active gameplay. It can reduce visual quality when the device struggles. Choosing a preset yourself ends that initial adjustment, so your manual choice stays in control.</p>
+<h2>Use a sustainable frame rate</h2>
+<p>Limit FPS caps how often the game renders. The Maximum FPS control ranges from 60 to 240. Try a limit your device can hold comfortably rather than the highest number available. A cap can reduce rendering work, heat and battery use; it cannot make a device reach a frame rate it was already unable to produce.</p>
+<p>If performance changes over a long session, compare the same camera view and arena before changing settings. Close other demanding tabs or applications and check whether your device has become hot or switched to battery-saving mode.</p>
+<h2>Read the status overlay</h2>
+<p>In Settings → Status &amp; Info, turn on Show Status Overlay during a match or training. Frame Time and History Plot show whether frames arrive steadily. At 60 frames per second, each frame has about 16.7 milliseconds; repeated spikes are more useful evidence than one isolated pause.</p>
+<p>Time Breakdown separates the game's CPU work into phases. Renderer shows draw calls and the numbers of resident geometries and textures. Those counts are not a complete memory measurement: a larger count after visiting a new arena can be expected. A count that keeps rising while you repeat the same action is more useful to report.</p>
+<h2>Describe a slowdown precisely</h2>
+<p>Note your device, browser, graphics preset, arena and time since the match began. Include whether it happens after goals, while boosting, during a camera change or even when sitting still. If possible, capture the status overlay at the start and when the slowdown is visible. This helps distinguish an ongoing slowdown from an asset loading pause or another application using the device.</p><p class="guide-return"><a href="settings.html">Back to Settings</a></p></main>
+<footer><nav class="site-links" aria-label="Explore Turball"><a href="index.html">Turball · Play in Your Browser</a><a href="garage.html">Car Customization · Turball</a><a href="shop.html">Item Shop · Turball</a><a href="rocket-pass.html">Turball Pass · Turball</a></nav>
+<nav class="guide-reading-nav" aria-label="More game guides"><a href="how-to-play.html%3Fcg=true.html">How to Play</a><a href="controls-and-camera.html%3Fcg=true.html">Controls &amp; Camera</a><a href="training-guide.html%3Fcg=true.html">Free Play &amp; Training</a><a href="garage-and-rewards.html%3Fcg=true.html">Garage &amp; Rewards</a></nav>
+<p class="guide-portal-return">Return to your CrazyGames game tab to keep playing.</p><p>Turball · Play in your browser</p></footer>
+<script>(function prepareCrazyGamesGuide() {
+  if (!document.documentElement.classList.contains('crazygames-guide')) return;
+  for (const element of document.querySelectorAll('.play,.site-links,.guide-return')) element.remove();
+
+
+  for (const link of document.querySelectorAll('a[href^="/"]')) {
+    if (link.closest('.guide-reading-nav')) continue;
+    const text = document.createElement('span');
+    text.className = link.className;
+    text.textContent = link.textContent;
+    link.replaceWith(text);
+  }
+})();</script></body></html>

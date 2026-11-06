@@ -1,0 +1,5 @@
+Necto by the Necto contributors (Rolv-Arild/Necto).
+Source: https://github.com/Rolv-Arild/Necto/tree/2e6ed7d6ed2b352e8ff529d4a12a0c9c70c28cca/rlbot-support/Necto
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+Changes: original TorchScript model converted to ONNX for browser inference; observation construction and greedy action decoding adapted to TypeScript.
+Approximate Diamond skill is an upstream estimate, not a measured rank in this game.
